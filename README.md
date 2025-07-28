@@ -15,14 +15,13 @@
 
 - `music_downloader.py` - 主程序，用于提取歌单直链
 - `download_songs.py` - 下载器，用于下载歌曲文件
-- `download.bat` - Windows批处理文件，方便运行下载器
 - `list.txt` - 生成的歌曲列表文件
 - `downloads/` - 下载的歌曲文件目录
 
 ## 安装依赖
 
-```bash
-pip install -r requirements.txt
+```bash   ”“bash
+pip install -r requirements.txt运行 `pip install -r requirements.txt` 命令。运行 `pip install -r requirements.txt` 命令。
 ```
 
 ## 使用方法
@@ -30,7 +29,7 @@ pip install -r requirements.txt
 ### 第一步：提取歌单直链
 
 1. 运行主程序：
-```bash
+```bash   ”“bash
 python music_downloader.py
 ```
 
@@ -46,18 +45,15 @@ https://music.163.com/playlist?id=947835566
 ### 第二步：下载歌曲文件
 
 #### 方法一：使用Python脚本
-```bash
+```bash   ”“bash
 python download_songs.py
 ```
 
-#### 方法二：使用批处理文件（Windows）
-双击运行 `download.bat`
-
-#### 方法三：手动下载
+#### 方法二：手动下载
 如果遇到403错误，可以使用支持自定义请求头的下载工具：
 
 **使用curl下载：**
-```bash
+```bash   ”“bash
 curl -H "Referer: https://music.163.com/" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -o "歌曲名.mp3" "直链URL"
 ```
 
