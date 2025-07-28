@@ -1,0 +1,2760 @@
+# 歌单: 悪尒夢喜欢的音乐
+# 音质: standard
+# 生成时间: 2025-07-29 03:38:11
+==================================================
+
+1. 第57次取消发送 - 菲菲公主（陆绮菲）
+   歌曲ID: 2692390754
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040121/bba60ebdb8a74abdd44ff30986d40f63/jd-musicrep-ts/163c/6784/dda0/75409b2c826b5ff2881cee731b3d1338.mp3?vuutv=8mREl+iWu9C3FcquhXX1nEicB2aXOsQD0BOx+ex/5/AOq6MsJol8Dao6jiAO6urtXbILP/GFHRsDKj8u/M2BSI1mj/D8oa2nEX7d9ZWuEJCHMkcoLa4YACGVraQqk2ymwnvtGGjdmTgxMK79+47G8pRkDawabxzRFUGEZWRjR88=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+2. 九万字 - 黄诗扶
+   歌曲ID: 1335942780
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040124/9498727baf1aa8026ee4642e49962747/ymusic/015e/0f58/000f/64660e4659828c7ccb6e7ea58a646e7e.mp3?vuutv=tXaE8KD9MmC3OXa2cdDnYM+5wItaDtHJuOiGRogfel0k2v6duZfcpcOZ1+ImMDHtR57u1tqovGXZch41CqyPNlJH/pstWbnk6qf34MJJcuZX32UTrW8VOH3crQnaJswNqvZCXm+nNKLUl3dN4uNNAUfIpf6Yfu0ZbT3Hnemy14Q=
+   大小: 3714029 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+3. 冬眠 - 阿YueYue, 刘兆宇
+   歌曲ID: 2110700883
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040126/1bb80e88d701e251c17d975c2298288c/jd-musicrep-ts/1a19/fc79/dbb8/619512d8390db1552a1cbb02b0d8e1da.mp3?vuutv=5J0qI6aA4FTXGa3oAtjFZ8S5qGvEAgx3GtNg8HXCYie2jYtmulAFguu6qzp+EyfLISnr3N4Cr/m+vhW25ZUnIGipwepWFW6Zo5StEzFdWZ7wio9IxlAR99r49jQMvlfB9Sz/eOBGvKffr/EuUCsk4tndXsaxVmTmc0XPYWvMbCw=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+4. 坠落 - 蔡健雅
+   歌曲ID: 27747329
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040130/4c6cefc8a2a0448176716d11a04fabcd/jd-musicrep-ts/b366/f390/5683/4447825084a4853638fbc98bbe78e5b6.?vuutv=EyV6RcwW6QXfytD1vP+ecj5l1tVZYYLLmFocoRv2HdjhFGkYHKN3my3fNoQl7vKpXf5guhSHzmDuUBRzbkyTSmuv/+R7K7UBB+mcMqylN1rQVsIVW7lmB2vohY8/uXl39naYS04PF2nRNCF40q4X9e9hGVifwCrJdOstwg/4+X8=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+5. 你 - 郑润泽
+   歌曲ID: 1406083061
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040324/4dcb2cc0d3ce2c7e35a155112c644f65/ymusic/555b/0008/0f08/b1621de5ce7b69b62ef88bc56d6c5c7d.mp3?vuutv=IM/E2QDL2aofnAcu9gYHN5cyK2ibmkjVaLpIPmq9ogv0Zmb/KJKSHkE3uikMRynMzJBWo8cm8XO2Dl9eGLaTAxU574pmYktsuQ2E7Zq0YYP1p1stSS6BCshWhYAoKATdgNyfgLQKmkZeGvzy9KKOpIUUJ1rS1crmKnQhqcrJ0kA=
+   大小: 4077653 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+6. 唯一 - G.E.M.邓紫棋
+   歌曲ID: 2083785152
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729040328/39e540499e7c6ff0461a277a0662e564/jd-musicrep-ts/c313/f818/d691/ebbb696ac3a70704cd8cab4489fa0acd.mp3?vuutv=IUOygfctl48fzpCzxLA7u4VmAtwxUFR4eYCDZje4cELgm2o/sa6vcqRYLXFTNNlKLf6XLmWdFby67NS6D5xjZQN/yd+mBurEsTT2RtgGGNcvwKPa9DzsGav1SiWbKCMcf8iu6ASNjAIP94aCQNuxF6nkG9qN/y97HMbq8hh2x9k=
+   大小: 720813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+7. 难生恨 - 藤柒吖
+   歌曲ID: 1921341405
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040330/c1ea672e0beda879d8cba079b1ccbcb7/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/13293276592/3bfc/7752/5588/48513283e9744998720aceda6c646489.mp3?vuutv=F3OebJm3Xp2cyX4YBHdAxt1nJRX6qAtoHtNUUUiBDzpnQiWZgfC4mrY3bp5GOCDyKPWaV6bLKoSrImBUANh8eLY5UrbvBKSa6HFHW8VvsjWeGEWMHTP2Q3hgaeG0SDZ/sPqenjqTgYZzbqd9Cg58dQbptIUx/K5Lr9Pvgx6ye7s=
+   大小: 3574701 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+8. 长岛加冰 - 21.
+   歌曲ID: 1486484277
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729040334/c2bd6589b25fca171c932370d61be7fb/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14052504680/dff7/a20e/2aab/4f90db439757a667e7ee169edafd04e2.mp3?vuutv=G9uAyTK/7acHl175ZmedFdtsxBcadpC4/TFR4+mN31f8WOqGzU6Wcslh2jmmqh6oy39Y/tCKx2Sp1zGlfw4QUfdfItHgu8n+SPqA0vyBG7JDqcT1Bg4x+3pMrnrloQotK43DQ4bvjlA82KHY2RFmccMlMmwqPfL/U1288yaJjys=
+   大小: 3123501 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+9. 零距离的思念 - TINY7
+   歌曲ID: 2673175226
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040337/3e82d6b6ca5662fd38916befaeb9ef13/jd-musicrep-ts/5cce/85a6/f348/391a5c7632ad1b64674cd106b164737f.mp3?vuutv=5o7TrDsmMB4bKyFvzXrRFrnLpTOdApc1lloYeZv5VFohO2WxcWQThxDqEGgqKBG4U6ur1NNUgo0Z6en7kmF4McVtZ53txl9H+NE9hpGivAwXTFC2LnSEcK4rmzuWkDbY98mZfAYiKe2XR35T1TAYv2zeWTUOViMRJcS3U+bhjQE=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+10. 爱情讯息 - 郭静
+   歌曲ID: 233888
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040340/b81d6404235713ae4380fb59c56eaacc/jd-musicrep-ts/30ce/a945/a340/6a98ce4819764a3b4c09a97d2888fc82.mp3?vuutv=CdzyrN/bcAKpdRJiLqwxexLujKqVDDfNk/axZPyYdTHbH3oIPUBNmtRG5SePRsI2/4nYUXJczDHtiwlNCFvA41NATyCuqSEpfq9FZ6WD7KFb1G7SUhG/KXywP7tJCu7jvHUMGhLYpvg7knxtQ3Z44KdRN0vgAqXCy31m3bx2OGc=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+11. 两 难 - 加木
+   歌曲ID: 2163210456
+   音质: standard (128002kbps)
+   直链: http://m701.music.126.net/20250729040344/d5ec3f224f4772c712e9c50710485f35/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36433247255/635b/cba7/22ef/06f69f218d877d6c65b5c5483a433d7d.mp3?vuutv=mdEAA4mg1SJ6pkEiT0jCu4gVptZ7uX0A7Gs3+QbDXxWuI1Z7+Exl6nHJkTU2ec44fFdKfuNJuaS1GNmj4lDE5PnYh3uuzgtllhyTi1JqcIDPpkv5TSyCegBz2Fou2UIgPdD8amoaMWvKop331mmecnrrzgbpBpdIIYxjuFF2XoY=
+   大小: 2721069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+12. 小船 - 163braces
+   歌曲ID: 2055507089
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040346/f89e45a0bd034f902c3f4f92a197cbd6/jd-musicrep-ts/c79a/fc10/f678/bae6c447d884cf2e704ba57f470b998c.mp3?vuutv=2uqx7CcgWh1tUpx2Olv+N5nsknjXKJ/QOmZbt7rSAHYc5XANO+WF9tOR1OhjwOSTa3KEZ0s2s2DSR42dx6/2x1r6TINB9y0isIepYXykKDa8otM65q+s9RknmmQqZhk308cbUeeBB/VgGOUFkZOW/x5gTN9MsumQ0v8AQ6tBv60=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+13. 彩色复活券 - 黄龄
+   歌曲ID: 2641552552
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040348/42b9fb3f77884f635381942ee5e8d3f6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56113819546/6150/a9c3/8b2f/f504da5691202de9bab9013f1f4f700f.mp3?vuutv=yfhRssydOU9ehfv2344x9Xze0KYOfb3w9qxw5FeXDT/2K6C5GewF3mRf8tBeEynGd9nJuzjJdw7IhqJXLa9Qpk0MaWgudPML0vwy9iMLkAJ0wV11bMTos8Sp+gQ8I+g929gHthl1pB4erlgR8hAMbcYEyRrMMpRmRoqRrx9nMjk=
+   大小: 3022125 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+14. 只为你着迷（完整女版） - 小匆匆
+   歌曲ID: 2666314815
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040351/742c458dd40495bc4996baced7a1cc10/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57668702929/3f72/31fb/c62d/79cd1105d7c4b14e29b0dcf33a7835bd.mp3?vuutv=YmLRKDp0Ap4osSk4igf2e+mLLUBZkud7xP+bExn5kQqILU6QW04UGrXnax2eXsaxk9x/twgNEPVnG/3Lvg9S5fY9Gc5sRKd2iFfSH/RtaZtLjgrJ/fMt0h5j8BHDUr+U9y/NMnw+hD6CJklsvfTBESn6tOoimPN8MaO3jzQofkY=
+   大小: 3835237 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+15. 和宇宙的温柔关联 - 房东的猫
+   歌曲ID: 1959667347
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040355/8f129c2aa673c05d75b1bf7fc0f79f99/jd-musicrep-ts/1fc7/4895/e55c/2b16e1403ed5528cfd417fb4a96a6de3.mp3?vuutv=2sfqQye4Ui2bztVrPuh/7QUou2wDmPWWO8/6nF8pLqC2DZqMop463dbsX+YM5RlpBJjy91OiCif0Ne/Z0DAijqu55y45ZEtbpvhGym+7EFYn9AsI6Ebn7rTLQ7xz3CkBgA+rfAZ98W2B1K6z8Rz6T21qN99gJ/64CpAeh8+3EO8=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+16. 上仙山 - 浅影阿
+   歌曲ID: 2660010022
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040358/91e09432d81537e85c4ff0c72e681bd2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57279461307/c52f/e196/60ea/3adf1fb278bb18972d6726c096ac37d8.mp3?vuutv=0SompNnB6z3k8y8PizVGftSI6+xQTuMLyuTcZmnCkbNucXuUdQLwnuOaD9JfBCWqx93f93XlH7xiLPX5IlqGzgrOhRvBqs/eS4mkzAxkOcW12amFLC6QRYkTbMCllQzdaCmZ+N7vA4+33qnn4v4uhq+rYe/pcO9XxAmHXR3F8CY=
+   大小: 2586285 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+17. 说爱你 - 蔡依林
+   歌曲ID: 210042
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040400/8787f387b728af47cd07337b1b370b38/jd-musicrep-ts/d793/2c03/b1f8/eaefef6c409cb2b1e50774d74df4ff5a.?vuutv=8h+M7I9w2qhXQDNDmdnDS8wLysuVdNKwot9RuuLCCn5PPTR62N6VY3PsN7pRhy0R7KWU4rJbgsSOKjiKMXkpg3VPsDlALKgKcuv5Wa3J95HVjn9g6SlR7nEWSEJvYSFikuY6MNINGpe3avhaeTYFMXY/1NhcLQelMHat95XQaTk=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+18. 1022 - Aggylow
+   歌曲ID: 1862467472
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040403/516d3af7f8b9ac0bd8216e582011026a/jd-musicrep-ts/e77d/eec3/8cae/c3f643bf8f03a84ba17c71bbf097d20f.mp3?vuutv=8lErCiN+mseY2rtO0fm4EQO4evEclHifTz36b7FKb4oYx4ELXlHAjWEabNXiGSqSWey5VD88lKEMHGm7FlCqDTTr+5B+da/qHxOjRYkeol53fuVbZbYKD9Zi5SgD4zTYrlfbDWYfggit6+vZynDdHK1SHFHes7CcgG4D2cNxuMY=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+19. 拼图爱 - 蒋孜怡, 岳燃
+   歌曲ID: 2655850235
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040406/39bd4dfaaa6fdbb270fdf4837bb4b873/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57039922236/80dd/cc82/fd98/46ec91c09307e7bc9fabe26169d15dac.mp3?vuutv=L8zwLCy+bf/bHtrHICvxXUOducoD4+Zn/02Xcl/8TnFjxxIPeGCBXEtOLx6pZ90h1/GkTwsAbnnFTMl/kYgt5TkrH7j6g/CZnUW9GWvkg/jrOXb6769K+Sb+W8CXWH6vvd2Ll6ifLfaOfR8tnWCfb18LJWR1zmiVlPQfWLG23iI=
+   大小: 2421549 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+20. 我爱你但是我要回家 - ET, Happer, 无面小生, 口古口古
+   歌曲ID: 2647831829
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040409/cfb793fef21daee2f94f4db77acaf2c3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56572092815/7b54/8882/2074/6ed7c0a290c01ff0edd4c2412ec8a9d5.mp3?vuutv=zbAt56VXAaK25ucb3JXde1nUw8qo2i8pvMa8ezuPEuCTj6xpvGtkPHzREcSzM1kJf/zagVJdsC+JsKrxYByBscjQEsSRRugCtSOne2CXs9a9pHgLTa9Se9zY2aaIfgemLwjz6Hlhc7lgYhtbunazoKQfoJiX2lFO9ROgaH8hCbQ=
+   大小: 3108525 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+21. 爱错 - en（王翊恩）
+   歌曲ID: 2629921305
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040412/c381ee69583bf8a3b11f87652de9541a/jd-musicrep-ts/d1d6/e97d/fe9f/c5d069b7d22e1cfb300f01309c7a5aaa.mp3?vuutv=Bqc+5AsknChUsT1s/3oacu2Vv3teUJIyLsDbRaUdwQvyt0V3q0hzcMSZ167x+3Fjz0FFo9XA8mt1CBu+3XwMfQGIQ15KlzYpiwDv1uPChMH7DwmVn/iWGkWY7tT3vDeFpwgh9+CjsnRiH4FwDJSOrmJSM26/4NSi+nIT9y45oMs=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+22. 我看过 - WiFi歪歪
+   歌曲ID: 2089636257
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040414/d508d81c9674219e0d346958f81f7355/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30793980845/4420/a534/ec26/c49ca8d3aa38100979a7e51a0ef3de44.mp3?vuutv=6mcHNq19gB0/OPEqXUcp6IkgVMA9j6SClU2nWvNwZq6T2hd18VtRhCgDaOkELcydi2mxmfY6UddKb52awN6RHi+wxTNGu8x8E+jKBxz7Uo94Y0wus830LrF/aL7K+1sfbMMNc9gCyupBGcPRazz/Tjdu6tqiz5XIW1WziVDpWyA=
+   大小: 2408493 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+23. 黑夜里的阳光 - 杜宣达, 费米Frieme
+   歌曲ID: 2074448544
+   音质: standard (128002kbps)
+   直链: http://m801.music.126.net/20250729040417/2b461efdd9b450ffe0eb655dac63f8d4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29973960894/b369/2147/9e68/8334158b178ffc79dc9d0a75af6b4a8d.mp3?vuutv=xDEySgw5309tPZ5i37aMbj+CPJekhep+N3Ly5UoeJK2seb+ACP3G/xXlvZ0xVgzsBj62DVfV4blHMzH1YhqQeJL51WXSBGCf03Ya7bBUXav4VPJo4Cap+g8ov3Il3tKfOIAMTAyVdaftwmgK5VBNWKgHfRLNQAFEkMFzoIhHRvo=
+   大小: 2658477 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+24. 不喜欢下雨天 - PIggy
+   歌曲ID: 1371046568
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040419/c8e526b99ef2036be6d61883d9df35d7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096505570/3604/bd5b/1ca0/33722db18994093e897eb189eba2d2e6.mp3?vuutv=ZSHWFxyH4Dc5q/1Ev7ZItSBOQw/DpWtnhtPq+DvtNWv8EaHpZzZA5SrjI/DrFjTMcB7Gb9+hCZfCVNqOr0iPc0/Ae4tGg+Ru0PAIibqHfbVgksi9AsO9H7H9c0ZW2PP0pb8YkeHFFVyBjRzlH0HgGD+HiVaO5cqSo+zGvijnDbA=
+   大小: 2750637 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+25. 洛希没有极限 - XMASwu(吴骜)
+   歌曲ID: 2614799449
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040421/dd9a1039b06d09d06bb7a71277269fd6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45067125304/41bf/add7/74f8/610f206cbe585fb0d4508bdae597a4a2.mp3?vuutv=59OklpE/8usB8IGyqpq6eCgLc76envPcuzL7yp5WCDRBxWR7gW5f0R4Q2GhYbY7XLu0NSg2AQklNFUTI8YCkCFeaEQIsXfMfKiDq0cb6zWs1jF78gUO5n1/NUFnyUj0CY/V760HHVh3S+DWFV+/phYyUmlWpD49qJvASUb06388=
+   大小: 2839341 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+26. 是想你的声音啊2024 - 制造热搜, 果妹, 傲七爷（江偌绮）, Aioz
+   歌曲ID: 2163953992
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040424/76dfa6912e416da88f498637eda09258/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/43939672745/ef7f/7817/5493/460dd4a1aab1ae8188b17695f4bec954.mp3?vuutv=INL9Hic716Wzrp3gtv/KtqOVL6vcqNscv1j7LwoOwOfnzs+7B1vCZAHrfHWFOKtzi59YrCtdsN3OESAj344G5dLQ5EpXmNUW2RNFyMqOC2vHBswVlnQLRgkRfqQWalNX2Wpi67H/IG/7tTe6Wg8yHZRCNVn+XwKew7/Hrvt42gU=
+   大小: 3061177 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+27. 暮色回响 吉星出租 - ORCA特米
+   歌曲ID: 2616910865
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040426/9257ec5cedb406d7c4ee96b07003dfb0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55756928542/5aa7/233f/68ea/eb2b5c84ef53ba2336f2e704db865f84.mp3?vuutv=qBTRtyAlzbYlB/Sx83mpLbAgaLIj5vFSnPD6SvbU3w6Wen1M/97lKJB9w7gIlnjKL7gDVuBePkV1bXPQxlhb7Jmfx1Yvz6jH8EX8itZoRPD626YBzWYp2L94DB3A+9lOOu4aoBgtssf30+y3zvw8GT7Nf7yNNUYTFpfD0kXkpPA=
+   大小: 2854317 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+28. 我只能离开 - 颜人中
+   歌曲ID: 1398283847
+   音质: standard (128002kbps)
+   直链: http://m8.music.126.net/20250729040429/d1aae22bcdc0e99400291f425a09225b/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054117261/e592/91f2/68bd/65cf08a2cc55ff042be2f2c5952c4969.mp3?vuutv=kwEiztKT40MmdWGkOOdvgsnZyfpqkXWSZ+kojHt/SS/gfzx1T6xoMgAfpAL5IRiOMnbczq7KQEONRmsHr3yw4U/o8gV3I0bcAiD40Hgo/h6VNkTxKQPsYmvXiW2GC2sfJEZ71f1Nw6L+r63lqYyJgjSFyFV3+NZbCvpskoK5Df4=
+   大小: 3681069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+29. 不说 (女声版) - 落小安
+   歌曲ID: 2062926519
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040433/321f125cc03f39290c4a5118049a87be/jd-musicrep-ts/786e/da9c/8598/9bc7641c4bbdf736f4d7931ec20398f2.mp3?vuutv=NoWzTXgAzoYgqvzkJuv8N/rJ7w66tU//zdPPvRtunrk38nrehxMr2gtruF018rZ85ln6yaQ+EcQ5HBVCpPcupeRG2nYJdO3KlGsrZchAfYKfHbssiwbHyZ4hc6YtvTU/om73HbyGMVZ1Kjh2WAqIMVjOHW8/AYgTfkTKZK6GW60=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+30. 危险派对 - 王以太, 刘至佳
+   歌曲ID: 1877996649
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040436/0e96181893c1e8b6ea26e5c3ea8a6a4f/jd-musicrep-ts/8fb6/cf57/0f93/575bca2ef812892fe68581232e662b7a.mp3?vuutv=Qk86p6FWWWWIBLaPkeCYRltdNv+Y+Kw+fxzk23cwOm/Q4Qa+IdAnIWoEPEGMq2lVg7Ayddkw6NYhGw7l7EtbplkfAYZcEt+qtWQ4Wo1fUgYQ+c95d35JK/Iz9xu1oAyOaurxxymgPeKy0L+jryhUBNry2G244PvbKr6qERvpNhc=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+31. 爱，存在 - 卢卢快闭嘴
+   歌曲ID: 1460682363
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040438/394bfc29aae8d0f6bb43e2b416c3618b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096527381/6b6c/47a1/e18d/c4d8f058d256ba13ea14a2ff2bc63d99.mp3?vuutv=keLmndXEx1KPIEWSQd8b8iAZG/GajbKodIdtMuCRAbsnYjA9+tSvIN2k3YnI2DthXKNcCAxTxv0Bz3e+iulFQlAvdmu54YkifAJSWcVABI/711ZCQBYdiVS98EOtuCThV97OytxyB92QUfXCBkC8+3D3/f4P/uFj30QIbxUWAe4=
+   大小: 4526124 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+32. Moshi Moshi (feat. 百足) - Nozomi Kitay, GAL D
+   歌曲ID: 2119517202
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040442/317c1611a817c5540a9c2a4311c63a95/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32961667863/2d37/faa1/cca0/727c9f5398df2f24a2a4afaec8745bab.mp3?vuutv=DI6Ui0V2HJZfrL3FJuHrSO0JC5yCLwpY11oBqZ0FB8GEOrqCLDpryPCkyWA4HjrtopTWnObGkq9BI+6vcqRL29UuWLVHjaj6+UyzYozYpeCNPFSt1WxUvuQqaPhzBei7zCw7+vXpCPblycuQ71Dd5uBTtfX6Jy8moyseL5ez9cY=
+   大小: 2832045 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+33. 房间-新版 - 刘瑞琦
+   歌曲ID: 562598081
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040445/a1e45545f86c2792697cd84a574a848c/jd-musicrep-ts/000c/bb92/4b4b/a0d4447c41b23a187d687e6404ca8822.mp3?vuutv=7KWzKilJcYXQPvOGuIl1nmgTPOcx9IlvhKylF7pTTa0aIxCibfEbiicl8WV52cz3fFqwE3Ot2d1jh/7gNIO0IZcM1RzyM9RK8XG+rtv9qSvFqXLHCHhu2ECkGgz9RFi1cKC/4UpXzJysoF84Nximx4qIam1H0lxG+5c3TC9zjDA=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+34. 山茶花读不懂白玫瑰 - 梨笑笑
+   歌曲ID: 2019620319
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040447/b832168700ae58dfbd3eb982e7c5e7e4/jd-musicrep-ts/2eec/0795/14e9/368c417aeb4616d7904071c96942f5d8.mp3?vuutv=V0P+cqVvRlECl11kIdGrCMReouzVo8XvP+g32fZ2ZAXDT9D5t4HxWF3b0NL8559GyDv0P46QbXNvyUs/eC2jw8ARIqzKdN8Zc16JeT8dPs2ZBcNyHM1OZxn9ixadUcEUpkdaOzBRvHPYXGgEeVVu607w5JAIm1Ag7gAHRg9N4tk=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+35. 天若有情（女声版） - 高杰杰杰杰
+   歌曲ID: 1931994283
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040450/d241a3af22f43702b816d52b55293612/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/13640048917/4d34/5968/6107/06161f319c349b8f409aef0477ff96c5.mp3?vuutv=kViPbRtw4jVeAjaHwMo5soRZH9KeXcqwkCR2VjeuDH5v5m+ZEylxZ+KP2TSmdzIKp/9eBZWxDLRwTDAW0XQDsrvIySwnc0FmvXskScEv6635YQFEjeyB8N1mSxRUnX6ZUBKRzv4IS58/M5+B0dWDvqcpFv2HhfE+uXWo5YJX8Ic=
+   大小: 4138257 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+36. 是你 - 梦然
+   歌曲ID: 1966162185
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040454/8ce6248c0377e87c2ae46c9c4020314d/jd-musicrep-ts/3e8a/7555/571b/568f087b545b820ed8b6d1f9dde93b7c.mp3?vuutv=Wymkxo0mAoL1mCmifgUH1BOUx/iIgyX00lkrTqiU0BuwqlIJn4JMg0t8cTaZgr/BXxJ1U0BdJcU6ZyrOEUNFQ/oypSmKqLMgn/fI1XZQiu5WTBMPc89BeaLwp4/Fp6ue5nWxiHeAEgiHLVEwykDv+7QDYdEksVjWAau5npxNERg=
+   大小: 481115 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+37. 天外来物 - 薛之谦
+   歌曲ID: 1463165983
+   音质: standard (128006kbps)
+   直链: http://m702.music.126.net/20250729040457/c44d8b316cd522aaa039d6b91eeeab75/jd-musicrep-ts/52ba/aa97/6df8/be6b2bae57e646c0fcd21042b2298d3d.mp3?vuutv=sDfARCPr7YaZmxLAE+McgfPoZaJ8fRvYLpIaEUEO7bh1HykhpDf/jT4/JV7CDv6kkoxJZWKpbweNkwQh4zXbRRgtfYmy1537Oy7Qn/TBCHDond4LSNI7SHqMn4qSqeoCmTnX4IEFF7NhTbYszQ/3MJ3AtlxayJwq1DVGuqCgZ64=
+   大小: 960932 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+38. 5:20AM - 刀酱
+   歌曲ID: 2124731026
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040459/aaa323e8a90fe5d66f0ea992c314fbea/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33489452813/8fea/3f51/7f2c/2182b6057e431155bcfaa8ecf0ae80e9.mp3?vuutv=/0/s+xJSzq1Mbo2RoMUVkpIubSSuvuxRJrp/J8MjO9uBkVoeBl/9nPpsIIv7Cw0skrdaowlZo2iR1qSJ8lG5CX7B81knA6pOhCzR0UnmUowX8jNwNsDjnem8eIgdC1oFYMRauO5CHdU3ktDrjMc/hgoKhLfBt8hgDtECf2VxZkA=
+   大小: 2581293 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+39. MOM - 蜡笔小心
+   歌曲ID: 1387581250
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040502/1eb67c7eb9b8827bf71eb66e7359d1fb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096405766/3d29/e61c/1bac/0c0e25b74beaa9612a6343b2667b79c9.mp3?vuutv=QhXPR4QE5a63eC+7KVVNL+E+Ug3+GDbZDY+WDpqS6PsiLNVmPKBdosHDVRO9tQbcryLL1TTSzgPI+OXaB0wZYg9aCTUdJ99DEPk3n9x8C9XqXNR+9MLVYOa4DQ96vQLea54+AhjzIWKtk/Vu4lRIR1gvn/RJNquFmYqOSV74gbA=
+   大小: 2797862 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+40. 最好的我 - 刘大拿, 刘思达LOFTHESTAR
+   歌曲ID: 1975753397
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040505/cfaa5698e59711d2ee128dac5403bc4b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/17950226093/7d5b/b65a/7d90/50ee21fc740331c1e8c29d731a9701e2.mp3?vuutv=dq0LT0qnXp1stjkGp8MlKeB+zRYL9arUuXN42Xx9TiVcZlgHkpNvebvRjypptM8JIhQez6RFYjdabyfpYMlmHAyZglozYGKWlqpqetg0BHZGmUjLYnHOEeXi5SNjnma9QfGu8y6roHAEjQb4Rc3MSBeq6aqgp9o7NtHOCi4sN5A=
+   大小: 3811629 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+41. 你在 不在 - 郭采洁
+   歌曲ID: 233921
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040508/bfc89f756e85b784a3b1baec3c269a12/jd-musicrep-ts/0e45/fcca/19c9/369db97950aa190b6709ccd71e950385.mp3?vuutv=el9PecVZUuIlGhzs1V6UYCe0wOjc9QfAGU2VULwmS4UuXP4jM0E8djffU3WbR8ox4yjz6edONA/r9HiAmcWGidYdXE3nklkqX8MBCKv1ruZEgKIJyZinKzjheuKyvithfDSEL0nVpgQMGfc636Am4V2v9DEc0JLOMXT6oib+5OA=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+42. 我们俩 - 郭顶
+   歌曲ID: 85571
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729040512/d18395def0581177397910b59d818b8b/jd-musicrep-ts/dad5/1575/2eac/3989ca41790254984f49e64e7de17c56.mp3?vuutv=buL0/paaww6genyNY12lkL92fA/0AnKXO43645PNmekW2eyL9jHcpyw2aO3GKsRVjlwHkdfYT2iIqvhElTi26PdWucxAgUNBmmZxVPFGr+Oaoob36d71Ajw0DnCuh813fW+y6HqgSQ4ajIZJU4ZCphPj95Iab25WG6UoYX0R5Ao=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+43. Everywhere we go - Bell玲惠
+   歌曲ID: 2141631249
+   音质: standard (128003kbps)
+   直链: http://m701.music.126.net/20250729040514/28241367c445f7fb008895ec3b8c0129/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34926338460/059b/4138/a012/2cdc43eb672b973447f72355311808bd.mp3?vuutv=IwYceRnFgWQ06L9OoDwYAL/2CNGphnZ2wzraD4XsnlpFpekMhX7nXKfpniYNeQZQ/i5ybU6gs1ko/vCluw394oteb5edt4AieVzxS8nHm5+S+1yXjpg5I1wKQMDCBjW67ZvQVIGyrgjuwhBVC23S4pZ9/NzAri8YBELYjcX8b2I=
+   大小: 2034861 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+44. 我看过 - 阿彻
+   歌曲ID: 2075085618
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040517/da094ce936ccc34ab3a61f8ca725f793/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30008358729/dc01/5b11/d762/2ed23e0b2080fe6270d00c7bc6f10255.mp3?vuutv=NcGHH14Z/n5ETbApOw2k3avxRvgLpyJK82HJDsQOZuqI9juvdCY/0xJkPcRr03JNqQPegIWq+olqlgQ1INQ5rNBz9MlONPR/NIHNKrjynMFzdpnc8PA0oD6H0mk9dflVT3KEKlRxI0H7pm0EQbMD7pnhgEUpKpY9twIL9jqzjCw=
+   大小: 2311358 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+45. 晚安 - 颜人中
+   歌曲ID: 1359356908
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040520/7d61784f78320385b0902b66ad6c633b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096446195/dec8/bf82/b45a/5c91b6bae9dd7d29dcc283633c2e76a4.mp3?vuutv=xf3ssKZMld2hvwIUZ7KM2wNtpsijQmaRPB1K9CxpAvLXbYEv4TOy0PuF5BExbmTK8AiEaiouuil4JtIN7Oy0225iu6b0WfclQZB1UT6Zp9kl5r+OlzYxFB8tM7SaaiZPIIIsZnhGvRE6LMIUOKMhRquSXKaH+hrmUzzEE1sHg2I=
+   大小: 4628106 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+46. 若月亮没来 (若是月亮还没来) - 王宇宙Leto, 乔浚丞
+   歌曲ID: 2119795491
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040524/f3171b94f8f2327970e37e17f8e8bf81/jd-musicrep-ts/be74/47a6/773f/92e01c57520e098ab411be2be16e217e.mp3?vuutv=zRxc/4/Xrq/uWr0Y2rHUhVxygsbdw5MlqkJz3HFNUG2mbYBX+pmgMUyjWYQKCOHRqM2itDCKtHr7PR8KFdJthWx+/URaBWZvJvH9LSnuK0+WP22gBPAWimPKEK6e8t/sIfCEakuoZwpZiPOxMalHUhUign2POlgpCbZkrUSOwzM=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+47. 沉溺 (你让我的心不再结冰） - 邹沛沛, Pank
+   歌曲ID: 2034187125
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040527/7f96c3b30dc4149df2a54778f31ff4df/jd-musicrep-ts/9114/32d1/06c8/0235cf2de6a2221e44642510f0c8c9fe.mp3?vuutv=+UeLTbAC+565HdLtf8+YdTPTpNNvXUe9pcS3RMHs6D/DhQwHaQR3T817Hv3S2bdN68IKsPZ8vIsfudKumU6CsKr32Roe076Qgm9u+BRwuVG30JIjwvXm3jhcUAeBu0kiogeVestjUqB0BcFuPQBoGDPTZwpgO56SSdk/PqfefQI=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+48. 未必 - 言瑾羽
+   歌曲ID: 2115519354
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040530/dbf0b60d4b8e9496b78b99adc1798f40/jd-musicrep-ts/5652/b418/91b4/74fca2ac31759cc3f6e685a92d707893.mp3?vuutv=oDcxJbPiiICmEE0Dt8++sU9dDUzvdqkyuVvrAk2pcnyrTOcY5eYG1JpKi+WshpScGKgS5WOAH9SmSRGFOpmch6QfMDmBkck+KpgxQDh/tU8danbm4EygteIrGGcoW2A/MXZnJFyoTFU1nBpWQ4yBz43KcwYGS09onRO2Y0PJZS0=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+49. 身骑白马 - 徐佳莹
+   歌曲ID: 306664
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040532/2366743c8014d17be45d542d9d23f3fd/jd-musicrep-ts/e054/dea1/4469/2970b5a1a150b19242224fa0b0fe99f9.mp3?vuutv=V2LsN5Hj+xMXGQQEM9YQdx6j6O4jHQ0JBdy8+YHX3oXogG46tzqMyrWnVrpgPzDlWOFUsK2M5WvLKiHmxS3Jc24eH9eJv35n3pQ4eLCR0Y3p1yC1xmtTtSzRRjQ22h7wplIQYWlkGfJvvtLcCJC2njAct7mUaXX89/Knd98SyE4=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+50. 慢冷 - WiFi歪歪, Mikey-18
+   歌曲ID: 2110966810
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040535/6ebf45d4a363706978a504d255e8b9ef/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32307624467/3947/2c0c/1065/0ffbc2154180d7ca09b4f001f5052ee1.mp3?vuutv=tyiUZ2xVPzXaaSBbRvtVuiDo73YFH9emja3YEVXCKhacRv3Ne6QP2wo0ftM2jtKLHHiwxViXf1idqj0CifNooKBaWV1PwfstU+dEMKotaUjdIeR3cdgY47LtszRBxN/HeEOmKYMicU1I1cUytdE7pGT6VRDine61UZQfEcJYn4I=
+   大小: 2860077 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+51. 第57次取消发送 - 菲菲公主（陆绮菲）
+   歌曲ID: 2692390754
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040539/2f858984bfb1fb2af46b5ff032c19f99/jd-musicrep-ts/163c/6784/dda0/75409b2c826b5ff2881cee731b3d1338.mp3?vuutv=sP1RdB/tCq7amWyvFo2c2x9QLt+CEmWSeQ+oYCJZC+/ZEjDZjtIAyXsu7nHFF1qKhxBZFFAv3psfJUkvaKeKDjUe4jFs0r3PsU/A64yR3Bxwmq8E81Gtmd01tiSrLkKbsEdf8xoIIngoTIgpXJbIe/upmM5jUpYohxKhRItLYCM=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+52. 九万字 - 黄诗扶
+   歌曲ID: 1335942780
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729040541/8760ab1069df0dba6d767c42543c693e/ymusic/015e/0f58/000f/64660e4659828c7ccb6e7ea58a646e7e.mp3?vuutv=eHtsnI6D1SYc+1idaa6T8qK1e3ueCvPh4zh/B02FPVb0NT4U76uo9YIkqdxnsuwxtIKk5RzBdHf+ymXsAe9G0+7K/5TAX4tXv7gGJlwX3JvqQZkQ/6zORTgaiIdzh3CoGWwYIDbyJjq07dnQmO+XrXZ2pgXUUzxpF+/E5KP2egg=
+   大小: 3714029 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+53. 冬眠 - 阿YueYue, 刘兆宇
+   歌曲ID: 2110700883
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040544/577b5ee4a2af5298853c3bde7ee0ecc3/jd-musicrep-ts/1a19/fc79/dbb8/619512d8390db1552a1cbb02b0d8e1da.mp3?vuutv=AV0XA2HvPMdb9xTYrWg/CQPAJJrtk8Owr4Hr7wci3LtG5me1O9jg7KW01q9+9fRPllAzLP4eIB1ynkhFa21TmWB2Bdf2AghQCrQ5CoiFP8OC2qn2ABwO+umbFffsNxiM+uv+WLyWpdzD5M4B2+V44G/aqr9KlA3MG84ZN1KF3Wk=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+54. 坠落 - 蔡健雅
+   歌曲ID: 27747329
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040548/e2272b9029f747821052bc83d49fda01/jd-musicrep-ts/b366/f390/5683/4447825084a4853638fbc98bbe78e5b6.?vuutv=CM6Uz1nHoOIvJ8ovAMdkq/DW+4FQJ0PDqjlbR7YAV1O5pRJ1kB8PORFacz84/TeX1f6v1y5+fQXuueWBmEbLGLgNJvEqRd8ymE/CpTpEcW1QIjHKqxkklsr5WoZgeyJAt3Nc9wLu5/SMirHJypQml1EQZ2aXhSNVPi6sAXmLqds=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+55. 你 - 郑润泽
+   歌曲ID: 1406083061
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040551/14ed3010e8b5649603f94e2b91485cde/ymusic/555b/0008/0f08/b1621de5ce7b69b62ef88bc56d6c5c7d.mp3?vuutv=EyZDIifjyfmXXsyqTkPqmCvregSawXujHu4TJcL+AT8ZLm/BjAElWteS8efFF2Hb4Um2E0+Uw+gyZRWxC5uWaVjxVOLN1f2Xf8IyembR7TL0LXR5QG4kDn9UPxdtUGijG8QiDNj2pNKByFyXWS4Ucl8B3eKEV68R/ye4AA6rJ5M=
+   大小: 4077653 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+56. 唯一 - G.E.M.邓紫棋
+   歌曲ID: 2083785152
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040555/1c6b072b805b5318f9f87fda9b16823b/jd-musicrep-ts/c313/f818/d691/ebbb696ac3a70704cd8cab4489fa0acd.mp3?vuutv=q9/renNpqPfCfjRE7FBMA9gL2oeZJeJRuxty6WZFRkw9Aiq9LWXkMiKmN9gQIW88sL9hYsbA97DBtVw+vNv7QeyyHj1nas/h0krwSZrMlSQNixgM9JYZEgmGstjK6S/v+3mim3/ses48WzWwK5dkdTLPLj0ckAMqFBBUJmwZ59k=
+   大小: 720813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+57. 难生恨 - 藤柒吖
+   歌曲ID: 1921341405
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040558/9f2e9c2856c9de75e8d3b7c0eb76b855/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/13293276592/3bfc/7752/5588/48513283e9744998720aceda6c646489.mp3?vuutv=zsiIf7mRmXhseyR2vWEvYqCBypwJlpmXNp0AYlPckzGh3DGurbpLLkgXeHnEZrDNgPXscmNICc/OHv909I/UMd1U/LnaEGLKbeR0n+bzHzRzBuzTeG05A1Kkp8uTBGOvM+xczNvJkf94rc0LE0XJEJ/NZ4T71yRlRW+EhXl9atM=
+   大小: 3574701 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+58. 长岛加冰 - 21.
+   歌曲ID: 1486484277
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040602/a192dc70cd37561d5f963928e0a24fb4/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14052504680/dff7/a20e/2aab/4f90db439757a667e7ee169edafd04e2.mp3?vuutv=RmM+xDnIF87fCBAWhP02xDXLXlVwK36h8mtf1QPUpqB5ITLfBiaFt0+A3Kn0uK44vPYXeZxL0x9DU4Cff70Crg+hEnGvuM6ruARRXH9hRCUMi+Dh6t4+F9GIRy7YTdRsQdWM4oAe9Sd9SnVUiTu/Si5bdk+8/kbYiMdvmpgKRAk=
+   大小: 3123501 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+59. 零距离的思念 - TINY7
+   歌曲ID: 2673175226
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040605/175626193e59616102e0c54ec41058e9/jd-musicrep-ts/5cce/85a6/f348/391a5c7632ad1b64674cd106b164737f.mp3?vuutv=9tvt1SXw9SOpu5jXR+NQsbBozYunfnDNtJm4h6AzZG1Cb5muKlMetoSFtND30YaS3OpOEznrmh+xJzrgBuKu97jXya7MQqmZEbIHpzcXx6MDvbzCk+PGybEegvgzpnF49lqbwpJTnEmVSWbR5Z9KBS5rCX0nyLuZUJgsNCbN4fg=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+60. 爱情讯息 - 郭静
+   歌曲ID: 233888
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040607/5b3b45ccd499361381baf3034ef30346/jd-musicrep-ts/30ce/a945/a340/6a98ce4819764a3b4c09a97d2888fc82.mp3?vuutv=KZHMo6PIFp3XOBLIIMEYED2uXziig5anWJ8+GITc44DSm9LpFt/5EG4W1n8Qrqq9p08CD7IFbfhuvVml1rmUtStXjw7TGwSglcbH40IwrhKvaaJDBg40SAq5qKoNErVpUlrEX4v9LV8efE6YenAttCgNaZRmMOzmXDpSBcjN+qM=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+61. 两 难 - 加木
+   歌曲ID: 2163210456
+   音质: standard (128002kbps)
+   直链: http://m801.music.126.net/20250729040611/e6626c2a28a2b1a065e81f0cb4e48af8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36433247255/635b/cba7/22ef/06f69f218d877d6c65b5c5483a433d7d.mp3?vuutv=ELzWF8dkaPrGDGVm7+IN4VUX7snq4/oKHjbSqiWrSVYn4zed79gCFYa//qKl8zmFrwE9E9hqFpSlkmi9bmXNG71OjzT8E2eqmBTolF9RaSipUOkiCrbYSvm9Bye9WCsQqxNFAzyhC95XFf7WnCaEdoO1EL1ukWSETxafLwbuYQo=
+   大小: 2721069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+62. 小船 - 163braces
+   歌曲ID: 2055507089
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040615/688fe232f33f04e625fb15115839fd8e/jd-musicrep-ts/c79a/fc10/f678/bae6c447d884cf2e704ba57f470b998c.mp3?vuutv=2sxUXyy4QMql2qqUcatubM0NY/wKOfK1BLm2cXEK1/r/D9pdw71DLlWAIXfPCNZVPxkRMlNeV34/pgt2NdWN6aSywkXk4ij1kIS1Aeeu2kVncexwuUqRV3bZIR1chIIX3J3YOHJe8IhXyyghmcybnANhLDGsjTaCAKwG472E/m4=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+63. 彩色复活券 - 黄龄
+   歌曲ID: 2641552552
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040618/6b436e8f9ffec6d4d438150f93540394/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56113819546/6150/a9c3/8b2f/f504da5691202de9bab9013f1f4f700f.mp3?vuutv=2BN2gYZNIlvw8JY/c306LNmmMY9CgqJKdxSaWwL3iDMJ1i4QN5r0EFBaKrKZBg/XRqXPBOUcxXVZTrhWn1K07MUQwxuIgZMkZsTYMsJ4QyJZGqgiewMQwCu6MboqGqZ6wiQCDjO6LOwAmT6LNU9kn5s3BzfzGJ8mURNpYxtfhH8=
+   大小: 3022125 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+64. 只为你着迷（完整女版） - 小匆匆
+   歌曲ID: 2666314815
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040622/6fbef7c7a72851ba31a727be66759c02/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57668702929/3f72/31fb/c62d/79cd1105d7c4b14e29b0dcf33a7835bd.mp3?vuutv=V41S1BKcYz7JNO4b5YPuuh3Uh2TPhdKX6uLCmOqZV2izvfBDE3JhOn2V6XPoRmX4UW6lqjcdSwUqjOl+vvpXA2/NRLkGqavk7ETmsp04zlAcaRtWXwdd3VR+maaYXKOBJFbhc4TaFnACiSeHK9eFDP1Sx8XjrgKuloifuwQpyDk=
+   大小: 3835237 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+65. 和宇宙的温柔关联 - 房东的猫
+   歌曲ID: 1959667347
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040625/fe5709a4c187215d5b2ba2c5140b37a6/jd-musicrep-ts/1fc7/4895/e55c/2b16e1403ed5528cfd417fb4a96a6de3.mp3?vuutv=lT4IpXUEmBNJYYrB7lyl9KatuHWkeK2OflusUFcElhOhkiGevOBj0MuWYD0o73UOjYhxhNR9gY2UKNL+SdpPmBAVvI8gqcNYySL6z+K+ohdo9OYeV8Awdt6np0k04PWnEUzpZsAK7M0voGRxtZ0ocra7S2rEc1skEx8xLctxge8=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+66. 上仙山 - 浅影阿
+   歌曲ID: 2660010022
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040628/36c325d55da73b657925cd0d1c557eae/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57279461307/c52f/e196/60ea/3adf1fb278bb18972d6726c096ac37d8.mp3?vuutv=IgidtntJbwqHe7UCKQERko6BPUBjZUde1HW4Wnaejmr/5R/3zn2bTwLLEOySY6DoYDJ24pb75WL25tmsXeykmEiEqWjXrVjFjDPgiBQ2xOIRTH+Hb0pbbvU7g6za0k7ULmitEYe7/15cpPKBOYHHogfD0b2l3/h5PcaeGgV2aTo=
+   大小: 2586285 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+67. 说爱你 - 蔡依林
+   歌曲ID: 210042
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040631/b3511434c8f8d302e579175761876a52/jd-musicrep-ts/d793/2c03/b1f8/eaefef6c409cb2b1e50774d74df4ff5a.?vuutv=Opvgf+v8q1ZhbFdNwJIrFMVDgl28lxYPh4OxI6iod0KbrydrYb9ErStE4G+PTyaYd0/9NmFJFqm2g16qCXzSF8mYoz+hnEYDLNwu9QWkXSOGzzzt1Vpl1F4X9aHRoK7ZLPJNx/yfxJjQxFUzM0c9mwkwc8n9CW32+iW7k22btH4=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+68. 1022 - Aggylow
+   歌曲ID: 1862467472
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040634/01a5ad6a30d41895b184602a2de58fb4/jd-musicrep-ts/e77d/eec3/8cae/c3f643bf8f03a84ba17c71bbf097d20f.mp3?vuutv=psBQMtb/ux9mZxYCEmeSvEqWNcTLBnoG355iPZnKP3z51BbVtKYIDa6zo59aulCVAwh4TDCM/GHeSi0XdUpnH86tBhyuzDne3Q5aJ3tgag3VH+LQM2T1d+z5H1IgDheA4aY8bGm1qt/FQdjwU0FXuLBfFECOcs0RUs7v65LOekc=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+69. 拼图爱 - 蒋孜怡, 岳燃
+   歌曲ID: 2655850235
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040636/e0ade50ef0f115da98bdf140d972aba5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57039922236/80dd/cc82/fd98/46ec91c09307e7bc9fabe26169d15dac.mp3?vuutv=871jR0obD8JK/MK4+v9O/Cbtg62/ObHEPu37cGDBmiMOJ5UNBMYGmlRkiisdk9HU5Zbyg+nSVY2qxpDKockUQBRkqp5XCQc46yhC9zjJfcpoNGUP5PqNsVNsKwQtKtvDTcRlru+uDVsZH9HPV0WvFGt9uLCZ9kxZJBFwGxltTP4=
+   大小: 2421549 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+70. 我爱你但是我要回家 - ET, Happer, 无面小生, 口古口古
+   歌曲ID: 2647831829
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040639/376779bf8c4db06d134286ddec893f43/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56572092815/7b54/8882/2074/6ed7c0a290c01ff0edd4c2412ec8a9d5.mp3?vuutv=/pSWJwUtCRnEQoXk4McANeXrFzvk0fVa3sPra/NWZOEwGX6E3iCJpy953PYBoa9kMDKW0e3QvVsHH4jY2rKAMhczoHlcvATUgKJOHvRe8CWuGvHROnZ/rcEZDV4qyi67ofQFzt6ej6Lgh1xVamLf89fGMfox/NMAY1Ut+swIvzM=
+   大小: 3108525 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+71. 爱错 - en（王翊恩）
+   歌曲ID: 2629921305
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040643/0ce5e1d290437b90cb7b308e478eb26e/jd-musicrep-ts/d1d6/e97d/fe9f/c5d069b7d22e1cfb300f01309c7a5aaa.mp3?vuutv=Zf3o8Qwhh7lNL9qEhI+2HHWMX/u77Za9mYyVoXS8UVV4CGcxV9BVbC/VCsCirAjNm5v6qlnT38W+7xZY+XMt9RwvhFTokjV6Elvw/0TSuk9ZJgKw4vqLkenV8YUGWoUvJo1tnC40bydIAV3OBrRc8BTSRdkMgVzoT9uo9DL1Gh4=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+72. 我看过 - WiFi歪歪
+   歌曲ID: 2089636257
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040646/c558708aeb28b3f712e78ce47b998366/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30793980845/4420/a534/ec26/c49ca8d3aa38100979a7e51a0ef3de44.mp3?vuutv=7Fa3Dq+LMJq2I1Wc2McYWbmJyuMcaVNCKG9TuseZyfBO8k5uv9dDgqP5I0rQBx2WSRa+HbkOdU0B0qaqHd8NHL4QboUSoYgjN+/MFeAI1TZ41F3jEwZB/ADeBKrzuyfhSNHmFO0NGXlZJf1nCK/QpSd5ZQXfBeJU5KNWw/cCbGM=
+   大小: 2408493 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+73. 黑夜里的阳光 - 杜宣达, 费米Frieme
+   歌曲ID: 2074448544
+   音质: standard (128002kbps)
+   直链: http://m801.music.126.net/20250729040649/90150823ab6a84b7ef59f895bf66a61f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29973960894/b369/2147/9e68/8334158b178ffc79dc9d0a75af6b4a8d.mp3?vuutv=VlN3DY/vtXWeQqaXefyUYdhNBMfaTaT3MfDIvGu86ytuajARlQYRut5/SizH/8sDTlx8Sq+F0q55AoctfYoHzQph3kZv77u/vTOSvxFB3A6T59VJNVFSQghz5zBxYhKcwXh6COFkU32u4S60slOasDA7btUkur0qR1PmQ1YsS4E=
+   大小: 2658477 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+74. 不喜欢下雨天 - PIggy
+   歌曲ID: 1371046568
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040653/ffb666721cda2419f2f228f8821b845a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096505570/3604/bd5b/1ca0/33722db18994093e897eb189eba2d2e6.mp3?vuutv=6f0g3uSwIy7TI0QbwH6pHRXZ6Xllq+IS8fbGVF4mx6wrQoD1NdmcIGx2LgwemwnKJ6ZKUu7rKB9+ACQDDlIgcqUcOtlhdKHO7rSirhHcqaPMkqPq2+VpogmV2ySy2U9psNAyZBjQD6BjuVTdQZchFeLo3pqvm3pLobJY5m7gFo4=
+   大小: 2750637 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+75. 洛希没有极限 - XMASwu(吴骜)
+   歌曲ID: 2614799449
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040657/9dcbba792ad246546345ad9e2ee23964/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45067125304/41bf/add7/74f8/610f206cbe585fb0d4508bdae597a4a2.mp3?vuutv=U5PKShxwdhfgGU7sMKDvNOrznZyODhpAkd9O2Yb9yseaJKhuio+fMXBUMopytr9z/zPz3yOT/Fo6GEQwpDBUAmEiEtWEWA6yZ1rXzzsSDJ6+mXORbX2SabfAjDnDEZdt3XmIstc3XcMLuruxcwAca3Rfq0sK0gNjJyuz4ZY7E/g=
+   大小: 2839341 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+76. 是想你的声音啊2024 - 制造热搜, 果妹, 傲七爷（江偌绮）, Aioz
+   歌曲ID: 2163953992
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040700/35797e86db9a5c303ccb20442dce08e1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/43939672745/ef7f/7817/5493/460dd4a1aab1ae8188b17695f4bec954.mp3?vuutv=iZ0/y1zU2IHPLq9MituWp9VW7Lm+mB81dBVlyjwj3VOUZtp4CoBgrGvp2JslOpeWjv58JZpdRbGrpNyaFgYnY4eV8FJD+UCwNxB7dilX4e2MEQPkiwseYbOccjT99SikboL7Dl2Dg0AnrausuG+8HyNEGAjC68iohZ2P9y/0Gqg=
+   大小: 3061177 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+77. 暮色回响 吉星出租 - ORCA特米
+   歌曲ID: 2616910865
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040703/ebfde05df79d31d2a8395ba1a54bda37/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55756928542/5aa7/233f/68ea/eb2b5c84ef53ba2336f2e704db865f84.mp3?vuutv=xKja+FRMb81LUVZGR6WydZZHR00Kd9S5kgD/yHHqz7IPcfa9khRrl4XRKX8dLu/z1xM/QBxiEp6/8r/tzSZ1kt44du1rx7lZTKSQtCgGNjVSpHecYCb/9D1j4lP7p4EWYEBvd3fsUFxhR5kKLAYKrS25GH15Ap/UzcMjIp4s5Xo=
+   大小: 2854317 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+78. 我只能离开 - 颜人中
+   歌曲ID: 1398283847
+   音质: standard (128002kbps)
+   直链: http://m7.music.126.net/20250729040707/fa538fc6de2cf320c169c3b7031f94be/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054117261/e592/91f2/68bd/65cf08a2cc55ff042be2f2c5952c4969.mp3?vuutv=UQzIF1k001BTJd36JiHeu0KucjAIqF0QuY/R2NW/bYlKJf2fR2F/kE93jpJ501WqJYKIa4Uk+KPNsnheT/ObubI8YWbPcS9wrD+7HFcdvcr3MHmOETRrvnQOGQRmLbMuKMwYdwqDyhzkqFYl1HiVzbK3WS+YUfz68IP/PwMZ9k8=
+   大小: 3681069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+79. 不说 (女声版) - 落小安
+   歌曲ID: 2062926519
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040711/0623f371cf8788bba092ef9462f2c59e/jd-musicrep-ts/786e/da9c/8598/9bc7641c4bbdf736f4d7931ec20398f2.mp3?vuutv=VegnuEibEECnJ83F5AtjnyYcRA0U3oP6LP9yUR+4XbLagKoKZgm9OBeu02wbKgRJx61NBZWEhwg3nLJbiz/oCZ+czwiySStT7GjMx1rOJzXyPQ9H3ydyOts8vFqCttVdXYxjIIDkG9rTyYrRK6+6OXdhrU6nC7HPH2wtAauMZSU=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+80. 危险派对 - 王以太, 刘至佳
+   歌曲ID: 1877996649
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040714/195c8ebb5e9a5b3592cc45d32540cfab/jd-musicrep-ts/8fb6/cf57/0f93/575bca2ef812892fe68581232e662b7a.mp3?vuutv=1Irx2At9IatFI5uVJO/mJDDtherRxQhtureYgQ9HujU2WjSq0CXyx0j0EU3xJs849uAFU6sv/pJsjqhU5bZYh12t/2OM9NUB/Krq00AqLBztyrqutxVtHbAfK1YtZdPMTLUVxeXfT/weLbVfE0b9Aw7n3WIpdasSTWE1ROha7gs=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+81. 爱，存在 - 卢卢快闭嘴
+   歌曲ID: 1460682363
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040718/70d356173bb82d72bb8c761dda64712f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096527381/6b6c/47a1/e18d/c4d8f058d256ba13ea14a2ff2bc63d99.mp3?vuutv=NdLpxVSgoAMfegFnUwEMaaCz0lNbAqXFM0vYyJN6UANfH4VlMmg2UHywiGEbP7KNADs/83T3qGIb/g9pG61EtN4XiheqILpCrHtRWxE0ypKJbPk+95+R7+CHoYV3qgBlASjgBgZk7sj7bOzdK3/WR/QCPqMIRImnmI9rDSTf7Zk=
+   大小: 4526124 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+82. Moshi Moshi (feat. 百足) - Nozomi Kitay, GAL D
+   歌曲ID: 2119517202
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040721/02068e54ec055b8f59462846d695660e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32961667863/2d37/faa1/cca0/727c9f5398df2f24a2a4afaec8745bab.mp3?vuutv=4b1J3Zy1W1HNGKi8gKSWtADLJ1DdmnGDF2HL9VTEGTQKSupZpVRHSpo3Mof/YFHYthPvcOHssg0H6vszKejS6kFezttFPNygKcmly0lA3WjODhtZmDXj4i4djJWcd6kY+W5nEnw2McJzAoThqlFaYw8vB7A4S8hdU4u+5ysjaB0=
+   大小: 2832045 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+83. 房间-新版 - 刘瑞琦
+   歌曲ID: 562598081
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040724/30188f97c2729fde18be4d49bbf07301/jd-musicrep-ts/000c/bb92/4b4b/a0d4447c41b23a187d687e6404ca8822.mp3?vuutv=519CSCa3HG2Xaa77YLnOA78XVok4U1EdgVICfMp2n2i60eS1l8Zde1OyDcO30sBFpuF6UPureW4aQIsRo47oUxaQDar7n/9F1kQ57WU/6r6r+5WLfmTvLRIj86/MYSc+ulSBDJ43iGGv+RXfu0DAFnEA8242eEPKgHYBDL3Z1gU=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+84. 山茶花读不懂白玫瑰 - 梨笑笑
+   歌曲ID: 2019620319
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040727/5dbeef6613f887e3c3c38d7c6dacf2ad/jd-musicrep-ts/2eec/0795/14e9/368c417aeb4616d7904071c96942f5d8.mp3?vuutv=ChVvw1XMZjRrvIbUYH8WlFa40bkxlj2sh3M6IiTHO0NGP1ZSi37Ej+nfpRh985BDl1WWs/GCwGVBd66xxaApi/wzLSr6bGI66/l9Fc+HMFBK6S+3N3Ftkf7TDvCs9qUfR8f6QItyX/5/W7VgNHuc37ZlaQ2B0HTxjLUbpDH++DQ=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+85. 天若有情（女声版） - 高杰杰杰杰
+   歌曲ID: 1931994283
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040729/c232d0bc46bfebc0c394306e7beba399/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/13640048917/4d34/5968/6107/06161f319c349b8f409aef0477ff96c5.mp3?vuutv=b/bTtSJE41vNyuQt0LSlnI8OZYFEiIzHnC3nHXwpprFZo9J0jnSD5IrhA9zWuQvC43aGGhs78ufCWex52SJf9lmG7fQmNNhekWnUX8udf9GX5WKYN2AEAnGlxH5UJE6VpcucZQC+xCWTlv2hV3emPUdz3BPiBKQi6KBTGlDykxo=
+   大小: 4138257 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+86. 是你 - 梦然
+   歌曲ID: 1966162185
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040732/f20c2d009c7de05ee85530b897b7bdbc/jd-musicrep-ts/3e8a/7555/571b/568f087b545b820ed8b6d1f9dde93b7c.mp3?vuutv=qHp6q5j9TSuD/yYc1aXRPKcpXrnZYIH3BTgNkR+5NwJvA0YyUz5dZqEuZ4XlgXwZdKkygQC1tYmsWN7ChKwq76g7xfzeCIysE9hxpd+3RBFmE51jShX+u5j7PJ2MESH12aG4EzyLrd4Gn5+KB7yXidSRdV/c62I2qUnnD0MMQoM=
+   大小: 481115 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+87. 天外来物 - 薛之谦
+   歌曲ID: 1463165983
+   音质: standard (128006kbps)
+   直链: http://m702.music.126.net/20250729040735/fe013d95563274b929f5f236c96e4cf7/jd-musicrep-ts/52ba/aa97/6df8/be6b2bae57e646c0fcd21042b2298d3d.mp3?vuutv=n7ZJM960RuYM7JkOnOIU/ViGqcnLCVoifNBEFsoUnZtMKWpD7pme5skWXD6oegcsoi2N8qbHFXwo90P5V2UZHdAhBKKxb1yfdH6dWzsH/LGFJ0x47LaDHD8KW1hu1IObQx8Isr/VH7YtTrhCxV1FZ2gHM0XyhDJoqppR2nUbEhk=
+   大小: 960932 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+88. 5:20AM - 刀酱
+   歌曲ID: 2124731026
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040737/2b443c7dccbe2da2036bbc51f46bcf4d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33489452813/8fea/3f51/7f2c/2182b6057e431155bcfaa8ecf0ae80e9.mp3?vuutv=i7TiQKXb1q9x6RbgR9SsJC76T9q9HgSdRpFgAn0zvHe2zX1wyu18ySOuLch0LYqKXyebeR/fVbcUIUX0gMvsqL7EubcWoAR7pMFfnQNCbX1UPpfigBoBZecA7s6adcG+SO/9ebisixoeApXDMC7u5NyzKwat6x1ycUOepq4bsHo=
+   大小: 2581293 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+89. MOM - 蜡笔小心
+   歌曲ID: 1387581250
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040740/5605a48f71c5d6096f7ccd408b90768e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096405766/3d29/e61c/1bac/0c0e25b74beaa9612a6343b2667b79c9.mp3?vuutv=HHNzNofrOTIK2tABpJSd+tJpb7NrBDXm3PaaXW5CxSXDFU9dNfGPsvEFKfN0KxVtt2v8CjtmjFjvOS50z28bsrV09Vdt7KTA6Xvnv+T8OPy1Xy1R5ZZ681Ut3S5ZNeTzgSSmzLXp1xmh4271RM2LaXjaPE3JgQZCCEzejSIUINU=
+   大小: 2797862 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+90. 最好的我 - 刘大拿, 刘思达LOFTHESTAR
+   歌曲ID: 1975753397
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040742/3d0df779cb0280076e4020ea4b588a78/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/17950226093/7d5b/b65a/7d90/50ee21fc740331c1e8c29d731a9701e2.mp3?vuutv=mfRH4okID/cdlnr1/ulmrSZ6AyfyQmF0jecf3FIYyopa0bdQY8Yo5/YmUbhMuhb96zgahd3jcbknje3oOHuoDb+zJPpZLn83PoQQN4f1G+5PmFIbTu8QT+Sk3tUswHXiPNg+DTFikWFPNkhPqC2/x2oH7wYu+ls0PpA8Foc8jlY=
+   大小: 3811629 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+91. 你在 不在 - 郭采洁
+   歌曲ID: 233921
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040744/0eab6222f508657e23cfa2c396b99b26/jd-musicrep-ts/0e45/fcca/19c9/369db97950aa190b6709ccd71e950385.mp3?vuutv=B1YFSICwBMI6alpK2RRd/lfbD/umLoCOgfXwZKuDVAgP5zvVQ2lTdwPOCHkj5P0aKAlkr7nVsiYgrOV1qC6RPDZlnaHkUPkw7+/NzPaPBcFve1/XTcdLNt3rlhGqtNljUtshyS2hf6x6hPKZX4IzJ1Ys4LAk4RmSqPGLsNvIPag=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+92. 我们俩 - 郭顶
+   歌曲ID: 85571
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729040747/10781ca6a2cce12bd6afc60c3b795d46/jd-musicrep-ts/dad5/1575/2eac/3989ca41790254984f49e64e7de17c56.mp3?vuutv=ylpzJwVJNtyr+J1XSwYgvSwMprHyNEW5oP2ze2RYQHeu6D7i7nGCEE2x/MIDMjaB9FGQ+SBiTkiTZ0SCrRysTSSwXFvMSPgcir1+5JqlGaXz1jGEl/Yf18H7jJoGrcUWGe/e1mUYGYKtlLSm14L+lSsW6BPsB+Z/2Zx/kdfW/mk=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+93. Everywhere we go - Bell玲惠
+   歌曲ID: 2141631249
+   音质: standard (128003kbps)
+   直链: http://m801.music.126.net/20250729040749/67ac73dfeeff160f4a48e180e25a3b0f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34926338460/059b/4138/a012/2cdc43eb672b973447f72355311808bd.mp3?vuutv=d9/F10Rs5eceXJ0XMxQ0nelxol3ubwq+d1qzOzfr8OcK+cchkfO6KPgiUDg7oXjWV4Ulekx8qM4+4EJ1iIC1e2RSvAyd/12Hi+zpQfbrJN3OIezwtVV8sFzxiXE/qLhgHCEvEbvqy+af924FJwRrSHeNaKtLLy0AaggzkaEZAvs=
+   大小: 2034861 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+94. 我看过 - 阿彻
+   歌曲ID: 2075085618
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040753/b3b752e42704b0f5bd0ee8840fc621b4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30008358729/dc01/5b11/d762/2ed23e0b2080fe6270d00c7bc6f10255.mp3?vuutv=FiflawlEPJH/iwFOUuvMlgzVry8PKVXP86TUVH2iwqN7yW9xV781x0NM9UK+i0EZoFI5vs0P2RjQSeGeJsqoEjfxr44x1I06M1wkogFAMC/eSzQhanEjK5MzZZ4B6KOs86uLPQAZW4cHMW+xnF5PJw2pbc3DhcRWQcyu0k1aIpg=
+   大小: 2311358 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+95. 晚安 - 颜人中
+   歌曲ID: 1359356908
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040756/43a2da675326a4000320a96bd45ba713/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096446195/dec8/bf82/b45a/5c91b6bae9dd7d29dcc283633c2e76a4.mp3?vuutv=8AhbePk9CzdqhAD38X4njF63nnDgv0iPkgmbduFUDpN+tUL7g5Iux3yW9Nj8FmmUPi8Y0Wf6dYYuc1UF/TnsUoQAtFgw3u+dlFnvMjHUMUPRsLrGqaFbtkknrrWyV/udAms1++gJOaPWWga68pcODeXDlQmHlQASKvZjDrgehiE=
+   大小: 4628106 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+96. 若月亮没来 (若是月亮还没来) - 王宇宙Leto, 乔浚丞
+   歌曲ID: 2119795491
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040758/2440910f78638f95402f2261cb47bcc3/jd-musicrep-ts/be74/47a6/773f/92e01c57520e098ab411be2be16e217e.mp3?vuutv=HovpPDEJ9auoiR7xU5r9xzs2HUgVi5KUp+w1hKqWt0W1olijCtSliK4vpxchWqoK8feYSTOf9+S7vawMRrmVON0uA5/bQN50VvXeeipgmFaPD0VpaLgUgr0Dgjzz43qoF4nvsst8kckWYZzUjUHp2LFZ9l0BBS8MWcBqqMDzihg=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+97. 沉溺 (你让我的心不再结冰） - 邹沛沛, Pank
+   歌曲ID: 2034187125
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040801/6dc71ae5af07d869224bd6435154f477/jd-musicrep-ts/9114/32d1/06c8/0235cf2de6a2221e44642510f0c8c9fe.mp3?vuutv=/fDheHNDHVbG6Htd92vGzblH5/GJYOx0NxicVDivDmAAV8XUE47B3fen4zWtniAsv9DkH6TGvCCNz6jzgmyB8dUFzbSTLQtDFPfhHKCihOSlMhiQkGKIX0SwNzshMny//m5DFaCBarRlUnElJKBlKLEoCP+GIFM21UeYe2LE9w8=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+98. 未必 - 言瑾羽
+   歌曲ID: 2115519354
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040803/876132127a01eb8b97aa8152c3ab7987/jd-musicrep-ts/5652/b418/91b4/74fca2ac31759cc3f6e685a92d707893.mp3?vuutv=42UnODJuixPvVwg2EJnQl4ukfhESsvzGZi+SQK2LPbBKmrt9sY3aXa8UUh6Oq9DAUU242ttB2Sbv4HIpMLxw+CIcpp7z3FLVxSuiSWctrYto6fJpp+AI4rgck7mpGpZsqEBUtxRVBuj7ba9pGoH/shNJA9er6OYlneMfAeaON9U=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+99. 身骑白马 - 徐佳莹
+   歌曲ID: 306664
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040807/ba42d61153b910c446281112509cba50/jd-musicrep-ts/e054/dea1/4469/2970b5a1a150b19242224fa0b0fe99f9.mp3?vuutv=Nbo8Q/T8dWrehycGNoAoKlhf4jLTeXoSL5TOIjs5a9cFjpMSKW7mkRf2bpA9hWSQFDnhP51cCQzIgKrMiD66tXAzP46O08xFhcQPKmKEQnC85JIeAtJNQQea7RfGA9gDDbDx8fxdSBV+B8+XijBL37K4NfuuzxC/iq7uJbpZbqI=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+100. 慢冷 - WiFi歪歪, Mikey-18
+   歌曲ID: 2110966810
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040810/31ec65e5da62cf725b7ac85e3ca3ecd5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32307624467/3947/2c0c/1065/0ffbc2154180d7ca09b4f001f5052ee1.mp3?vuutv=FHp4zVfW5Wjm5Kf2VR9SC9ErfTHrB+jYhh2klgtQbGRftdakZ6MPzPtWjSaZFVueJ0tgwvm/uesviRWmWz0tr4IexQjs90x+NerRoj+hHzO0l0YUwKhkkViBkDGmDUt2bHpgR4sqraq8Q9F8SESw7BM7XYGPSVgml17kt5YBgvM=
+   大小: 2860077 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+101. 第57次取消发送 - 菲菲公主（陆绮菲）
+   歌曲ID: 2692390754
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040813/5c753a4d5a2f31d2dbc377f95e4296ca/jd-musicrep-ts/163c/6784/dda0/75409b2c826b5ff2881cee731b3d1338.mp3?vuutv=zFrdJRzyvJNo1jVeTGB50EzDp3Fwr901u9a+BJTALbLWLhM9aBQkQIa5maW9vviUPhNgjAuuARFXQ+I9sPRk1RWz3y79c9IZayvgIyDCRaxM4ssU9Dp9wExWQDKQZe0/QQUwvfwP4jWu/bgWjnS7jUn9Yet7t7Tx7D03QECqsf4=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+102. 九万字 - 黄诗扶
+   歌曲ID: 1335942780
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040816/5ad5b371e75016ff35f88552c16d44e8/ymusic/015e/0f58/000f/64660e4659828c7ccb6e7ea58a646e7e.mp3?vuutv=z17XuWMZZTIKc5RNXrdze++LQ88l/rkxnxEqwK/CsX7EZM9N/jH24lsUsoEhSyuBlb/r3PizNcksvyZqbKJoO+aMU66AoIg76tHBgrCDGd65kORukyuxiDOu8mi4C47G+urtYUTcNARd5A4xHpYDa9hMKw14R+yyBrFA+L9Gv9Q=
+   大小: 3714029 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+103. 冬眠 - 阿YueYue, 刘兆宇
+   歌曲ID: 2110700883
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040818/d7a850341c369fbc3fc32ae794e23db5/jd-musicrep-ts/1a19/fc79/dbb8/619512d8390db1552a1cbb02b0d8e1da.mp3?vuutv=JZBAJFIFrzQraJXlYlX9PE41V5xks/YFJthRKIhgynfSqZeKs9zcyjrMkKOJT9PUg1CeuQycNK1Rvuqc9GgqwRKQVryKV8HAeaZTrsHOC7r72RvuQSQ/gzlyXybw3z4rG2dOiVqq8EjDxqs7MmSQIFEGV6oK0/X5oBfHf/Q5Uy4=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+104. 坠落 - 蔡健雅
+   歌曲ID: 27747329
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040822/51cd19d161081096a5854fdce77c9507/jd-musicrep-ts/b366/f390/5683/4447825084a4853638fbc98bbe78e5b6.?vuutv=wSYoHrIi6LhPRKUdlyUkzsUJU17VxWcOhYr1lQf7nxbAy4U+VecLc03L8X0/HefCq1e8pV60BC5t3DxSDZ86QeF3/iQbWExS1/ae8KioRA//5nia1J4OD7uQekQHvwK5YEfLNFfAVS5N9vm3TsyNpngiMdGpUGwEvMvOqztfSsA=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+105. 你 - 郑润泽
+   歌曲ID: 1406083061
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729040826/a9f2eb0068b9ae711ed43ca0aba8bf88/ymusic/555b/0008/0f08/b1621de5ce7b69b62ef88bc56d6c5c7d.mp3?vuutv=BCcmkAL42vS9NJG8Z1MBRkZ2THggIsy49M6p7By6VvnEK6v+QjqfVTQSubHh73v4/kTrc7+3q4KTFNediH5VXkqbYUTenNMQDLZrqcf3Es/YePWfTKJsDvBTGSiCQ02Fm5s6/cMcF+p7F2VXYG1QMi/xBfkppI0mbU5git9hz7Q=
+   大小: 4077653 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+106. 唯一 - G.E.M.邓紫棋
+   歌曲ID: 2083785152
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729040828/edbd6ecc8d9d966e40520644ed7d611b/jd-musicrep-ts/c313/f818/d691/ebbb696ac3a70704cd8cab4489fa0acd.mp3?vuutv=NQGTaQs5U/lOz7Y9oqKyyXSEU0eRtiZx3xuEd2VpSve1wX9gjyLiv3oGNSWl8tkzPZ4cgD8ucGFDgbYhTfT2TelfzxyRcCJA/Y550hy7JgVICEa5s35BrEEmVEL0oUfFpMb2cVW5DnkibqSv35zY0cU5r3bFjnsmQKaiJ8QcCBo=
+   大小: 720813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+107. 难生恨 - 藤柒吖
+   歌曲ID: 1921341405
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729040831/8175f20a2e87efe7e3a87cd9d95953f4/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/13293276592/3bfc/7752/5588/48513283e9744998720aceda6c646489.mp3?vuutv=gYfipulKlATV6h75vXyeYjdpfwMyic74HB67WBy7fB1D/Ppx7jjIOsphMMzV0MKQQTrMA9CovMabpyBUv5bJwPNkXLRrgLV/KCybp2DDmXBPnLWGxSeAVVespWrQX9Hqfs+7ZQQvRzmUUGeJc6vQk2OacK5Ko+WuH1T7XHiDe0w=
+   大小: 3574701 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+108. 长岛加冰 - 21.
+   歌曲ID: 1486484277
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729040835/e17541b088212570fbf3e8b08963adf9/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14052504680/dff7/a20e/2aab/4f90db439757a667e7ee169edafd04e2.mp3?vuutv=4Qsa//3viHbImJ/aEGae//9o3kqC7To+DuenFIrusFy/FJYhMWhcCeF1Nb6/cptMbSutKIMLufYf+H1yQGAxl98mPx49WNtatks8mqXjcTCz5ox/YpCVQxWuqiOuU3Q0GzcPwMo/xrLuQpbdRB4CQC/qmZ4tKWQM1RwqSrMUowI=
+   大小: 3123501 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+109. 零距离的思念 - TINY7
+   歌曲ID: 2673175226
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040839/ccb6992ded22f125fd70fae46f1e8a70/jd-musicrep-ts/5cce/85a6/f348/391a5c7632ad1b64674cd106b164737f.mp3?vuutv=PXZwdoEYWM6pmXi17eBFIyj3vD6IHKAAOhyUunaaHDloUZVlmwhSiqoocNfttU5rtm0xgUiDIguTkle9uj103Pbby/wN7OpKat09LKEEnfIlbhFTUEi47f4Gm6BJba7VL2pQJ0z9AS4cP8upGgRpyhHgaYXRTMyEWZHhId/R2Ug=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+110. 爱情讯息 - 郭静
+   歌曲ID: 233888
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729040843/9555c14bf569b50c6dd7de7c381f7f04/jd-musicrep-ts/30ce/a945/a340/6a98ce4819764a3b4c09a97d2888fc82.mp3?vuutv=n1ACZ4cUkgYC8+wrR119Vn1ssAJWlIU7Ga2SS+DH4kmRToRydZFxEuri/fxyGetqP9g9NHqlUWPIcE4WQ35UWI4GjiNihW4gREwc/wVbrO9+yLWGlckYLJ5+tKYaKqFZvqUvaqVcIv3wokdHfhohfcheBsH0JLqhZ/y3T4W8/9M=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+111. 两 难 - 加木
+   歌曲ID: 2163210456
+   音质: standard (128002kbps)
+   直链: http://m701.music.126.net/20250729040846/03e2bccd6e658982b222fc9ddf7e4c75/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36433247255/635b/cba7/22ef/06f69f218d877d6c65b5c5483a433d7d.mp3?vuutv=5W5bYxKeLK8xSxAh4gwPwNdTj6iUkF4bsxVVG2n/ZdBrQv47PoDBspoLFAP3/v2hpb9KqdMWvpXLi0QhhvI8TwCn2MqJJJNe/dOc5j71wooN9ly6fTyJcOD8lRU4V5d8jT6I5xUWubdkVm/ROkDtIj9JYMtD5fASGftpyNtKUYY=
+   大小: 2721069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+112. 小船 - 163braces
+   歌曲ID: 2055507089
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040849/9e713537aca8c92aeb2576119089b5cb/jd-musicrep-ts/c79a/fc10/f678/bae6c447d884cf2e704ba57f470b998c.mp3?vuutv=3SA1HwXvtrHSBMNNVt63d2nVkNIJmH6WQC62LKgvXhnFaChWdjmm0CKSqjA36W3nyLQQBzNe/TBiZJudWF5KNZc2dJ/q4NFJE5DlsL2w34lEFKr9YwXu86Y36LiX6D+byeSDV+P+Rhlvaa4mEDjkpUivMlN9k3yAa2e+983jUCg=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+113. 彩色复活券 - 黄龄
+   歌曲ID: 2641552552
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040852/751585ec9813fffb1e479c50a7829b42/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56113819546/6150/a9c3/8b2f/f504da5691202de9bab9013f1f4f700f.mp3?vuutv=uVstK/IVWNiAl6AKW9Gdhxvd5ysZlMbPjHgzQHyj6+SKxwU6L/M27FjOJFSmz+ghxWwW8y4rlTKtaq4NO1HBkDBepR4ZV0RMJpNVfhwY/3pheWDYYxDkC1nGMhEA39vmeXjp0J5kOAzWY58BH/rjX2D18uacbgTPVVKiZ1ZPVlc=
+   大小: 3022125 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+114. 只为你着迷（完整女版） - 小匆匆
+   歌曲ID: 2666314815
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040856/8603341b80fb841899a29aca5e260f08/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57668702929/3f72/31fb/c62d/79cd1105d7c4b14e29b0dcf33a7835bd.mp3?vuutv=PC1bNa7dNzHgscqievySRkxaM9WNXxQdUEgJQ/FeQqN+yzXiRnWqc5vCgtFviJi9JD5zoDZCJMqAW7lFQwu33MW77RwC+f/3eZjRMZFo2Kit8YpWaO/V73jtA4kNk5w00uZXIP+Yfh59LScsNcPOmXqGS5dsS7HFfZJXWV+jYLs=
+   大小: 3835237 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+115. 和宇宙的温柔关联 - 房东的猫
+   歌曲ID: 1959667347
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040858/9ac729092507a9de1052efac30a8285e/jd-musicrep-ts/1fc7/4895/e55c/2b16e1403ed5528cfd417fb4a96a6de3.mp3?vuutv=quy8w87J6GWijoWPnoAxkXQqFq1hUWxIF9sJAQ2fLKcCYr41eT5YsJV9/NDX0FMKpM7wysmNe3AtXZzHq8+WOkFMKG34BjS+8L+RzMccmHuUnmvgUbXCr4dB2yGsV2Xh8Pu1kNTYTuT3vljAF5SjYQs67/Noh5d3FBNI/1HF7QQ=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+116. 上仙山 - 浅影阿
+   歌曲ID: 2660010022
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040901/37fd84763bc10206afd586481083392a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57279461307/c52f/e196/60ea/3adf1fb278bb18972d6726c096ac37d8.mp3?vuutv=3lfRw2O3/oEGebBvbJGJ9gwmPbgkfgj34b8rV14Xv9HKFeFKq94rWYazhOUifDGOJIzxLX1yYLot6WZJ7hUoVNoSQwVkadZ/Wp3u9V7HPzKj2LjI0PJQ1ZA8T2L4LZ5UWI/G5JWxgIQBYvuztI6/S0tAwTZbDk5viHNBFnPBEBE=
+   大小: 2586285 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+117. 说爱你 - 蔡依林
+   歌曲ID: 210042
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040905/f9a9a4cd2983a9d3be26298306c94e4e/jd-musicrep-ts/d793/2c03/b1f8/eaefef6c409cb2b1e50774d74df4ff5a.?vuutv=6RpF3uuSn8/1EXcDx6SYVDXFH1hmHRi6/DUukxXgZ5JVoYusx9bawqcpcZu//CX16mNotldoeBypkxojSE3nsXZuAnYl0dHrdRQoTDeBQYYF8Qi1eK10qawHoJwATg999M9GVeU5F4FHq0COJEfPBFetqC67uKD7qid9EGwXSPM=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+118. 1022 - Aggylow
+   歌曲ID: 1862467472
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040908/7bd52147ebf374052e298d94dcac0ca2/jd-musicrep-ts/e77d/eec3/8cae/c3f643bf8f03a84ba17c71bbf097d20f.mp3?vuutv=Brd2ztjiwZysZKL8qnCNh5zLimmoEXmhWYr1pzeoZF1mfYjDjZVATrI4GpQH8XlbZL2emfHx70i/qIA/uEAtZ6ogYCVJze6LXyu205iWHccnyXokpYmuQwKdh5wStyZESMxC+xu6NXZnfbDBy13+QsBIRX23mKXj1Tx3BuqKh4U=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+119. 拼图爱 - 蒋孜怡, 岳燃
+   歌曲ID: 2655850235
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040911/84c20e9fa694e8db55bc5e41a56f25eb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57039922236/80dd/cc82/fd98/46ec91c09307e7bc9fabe26169d15dac.mp3?vuutv=eup3f+25UQ6X9iShKCU22vL8hgqXYD4emwt8G+7i5JlRcdZoFRxK8fnu3NA84leGJy0zExLRNfaX7vAP1mMsLjRGzoF9WRrmTygKS9gku19zFjiIs86FVrqnKMwaYaj//EGIq8nEn6JqKiDxgBFbFb6aJ6jpomuicPHGmnjlTaE=
+   大小: 2421549 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+120. 我爱你但是我要回家 - ET, Happer, 无面小生, 口古口古
+   歌曲ID: 2647831829
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040914/277408366eb14fd65a5b68d9bb6afd43/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56572092815/7b54/8882/2074/6ed7c0a290c01ff0edd4c2412ec8a9d5.mp3?vuutv=dw73QwQ/9KvEhC/UT0BqgPNP5R/5jPUZeKxgNe9IxcMZ81IwjioCCOERfEgbQg1tyr0RYwXSC9TtuRK2Z2/2K8ue51E+xhaaoRsqEqK4BsgjBgGLKD5WzWtoYpJny/8/Z6ilIoWBHHesD1DKItdMMeTxQj/Qh68WAkoJcXgoNc4=
+   大小: 3108525 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+121. 爱错 - en（王翊恩）
+   歌曲ID: 2629921305
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040916/feb4e03f336154e3fe9453f58373133c/jd-musicrep-ts/d1d6/e97d/fe9f/c5d069b7d22e1cfb300f01309c7a5aaa.mp3?vuutv=0+lhtELjigos54qKrUGzumsZ8QeptChFNFkUCDnfVpD7YuxDgBTdCo+adkwLVSsU9nomkjurrbMTg9hgts5XmGTIvbPR9Obbq4rFDlDUvWbS0L/A/OyM5mqZI1zyePskjY7r6ZfZeEBfQmOMNecgEHuoMv9dWvzmXmlQV9QM0KY=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+122. 我看过 - WiFi歪歪
+   歌曲ID: 2089636257
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040919/893df42b79c09a5cabe28d61a446744c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30793980845/4420/a534/ec26/c49ca8d3aa38100979a7e51a0ef3de44.mp3?vuutv=cag1BXcTFDwyAsB67XSFDpTUKzwWBLFqYUJfi2R1l6Te2l9KehbxUxPRAV2Ehiix40jGD0dR2JIH8MhmA2yN+3cX2YQRhjfci6r5xOb1lUnTx+5uuKoyDzuvsnA+qXi9r3lWwI82jVMFyP21PTf1oyUjt5QVDwcazLEyIz0nG2k=
+   大小: 2408493 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+123. 黑夜里的阳光 - 杜宣达, 费米Frieme
+   歌曲ID: 2074448544
+   音质: standard (128002kbps)
+   直链: http://m701.music.126.net/20250729040923/eb6e5f3202ad78c183897829967a265d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29973960894/b369/2147/9e68/8334158b178ffc79dc9d0a75af6b4a8d.mp3?vuutv=54gtTpIL1V/eDdbYvPdxSfJ6HUjxPT5NMUeVd5/GpkG+WaJnUVP3yjIGfMSMLQtbgWcI1gvdCvB97qLqde6nEfpBfTJbUOmnfYgX56vhHB35Enw0p+fGQdazVb0M5SYoS/H91OqOUz9LjCI+ewT7mhAxb+FN3UYvMtiODfXIolU=
+   大小: 2658477 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+124. 不喜欢下雨天 - PIggy
+   歌曲ID: 1371046568
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040926/3ea879d2ca4bbda7363393f318aa7440/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096505570/3604/bd5b/1ca0/33722db18994093e897eb189eba2d2e6.mp3?vuutv=feaFk9otcjDRvjHEkp6Cnl8c7YJC/ammN/r084UWQDvDt8FRe3H4TbljEG4uDqsgdSy2GroSw2zCtA03IyNjo2ZIMDubcvj/foTMe+zLcOz2SulWkBpRlscEPhva4KeBOqZDJ+a3wFclHiwMcwmSAgLlIWgmcTTOPBLPsZy2fV8=
+   大小: 2750637 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+125. 洛希没有极限 - XMASwu(吴骜)
+   歌曲ID: 2614799449
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040930/5203dc375a5d0e870790ac5c3bdd6db4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45067125304/41bf/add7/74f8/610f206cbe585fb0d4508bdae597a4a2.mp3?vuutv=hxqnLAi8PIXn5H+yoB6EW/cUKUY/YDtfrFINw8r1wONVFkbuQQZabQKFOqgEVBe0jyveOdkwmhF6PpKR771EHYcXoVFZZPz71u3oGFUu0lf71Zk/pD1Y21XfgLMacGBmH6YeERy+CfmHjIpo07IcDakE7Txu/RzHgVIM1RbX+mw=
+   大小: 2839341 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+126. 是想你的声音啊2024 - 制造热搜, 果妹, 傲七爷（江偌绮）, Aioz
+   歌曲ID: 2163953992
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040933/19d07b1afda5f39307a772d6e0e5d493/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/43939672745/ef7f/7817/5493/460dd4a1aab1ae8188b17695f4bec954.mp3?vuutv=wlkYWRwLGzJGDzrK5gEf4qZ2Tdqa/lH8Pt61iaNCG8kTriVumwAt6AYgpYaAzhg3NesoEfL/JnoXcoBg7Oxaf9g2/ZWpzV77HUH9G0sUbMK5Ysq/u7E4hYmsRmeQQxY7j2dn5mIN+BCM8HiI3Ct+wHRvU1xyBKHt+sla/dhWbag=
+   大小: 3061177 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+127. 暮色回响 吉星出租 - ORCA特米
+   歌曲ID: 2616910865
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040937/8ea4f0ed01a5909dffc06bb61e56966e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55756928542/5aa7/233f/68ea/eb2b5c84ef53ba2336f2e704db865f84.mp3?vuutv=QU4kUoljQ9jF5bGNbb9d5Cw0PcdAgoKKOlSgu+jRfDpQ0HgwmL5Dn5PNHCmnz1S11X7PipAxtonWpw1vDVLv+vnPPHoiUCxRQdIB1bhuEAN6y4qul8GUmlWiWbMq1hDHHa6lL0nwjaPTAKTAc1EMlCAZMMeVmIfui5Uxr1XTlYI=
+   大小: 2854317 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+128. 我只能离开 - 颜人中
+   歌曲ID: 1398283847
+   音质: standard (128002kbps)
+   直链: http://m8.music.126.net/20250729040940/450c176025ba00c7157826700090f342/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054117261/e592/91f2/68bd/65cf08a2cc55ff042be2f2c5952c4969.mp3?vuutv=IYTnzt4wkgN/HCnWqJmViiJM0e+Yv52HTTAnXQauB3I00Sq8oHt5w+/DAYzn3cqj36AUwdQtDif8bAt3X++o+SZQ53OLlUs+n4fCRqNdNeE+sx8m+K2hq+NqGQ/1sp8TBzgLKaqXruaYmkX/POrw7YdKhBrHG95d6xQNDDuU94g=
+   大小: 3681069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+129. 不说 (女声版) - 落小安
+   歌曲ID: 2062926519
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040942/b7aea4928f175c32d3f7747ac76a3c1c/jd-musicrep-ts/786e/da9c/8598/9bc7641c4bbdf736f4d7931ec20398f2.mp3?vuutv=xY1BHg+fE4OvsnjiGvYw86d1ZhvkpMutuKKV2jN1vczd+3d9YX31KBSJ/55P6eFpdCyIx7HQF6xCS69zh/A4Auv0fw7mvNib1Vcs8yLwGn3lcevoV1WH5A8YiOq2/8FtupUs9R2cyuFrQo4tbl0fu387gkTjB+ZRLu7hf7FLNBA=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+130. 危险派对 - 王以太, 刘至佳
+   歌曲ID: 1877996649
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040945/1213a5b8aa3a06eb2e1d4255b70b0793/jd-musicrep-ts/8fb6/cf57/0f93/575bca2ef812892fe68581232e662b7a.mp3?vuutv=KyCg3BG11xMH6s24Yn2R/a4jjgy/64sooGpaVHDxe2BsS8o55zCIGPLVIfYKZ94LZtqop/0kyirnYPwwcvZb1OZDbRcTvVkyqPDkxHId6daU/afDK9JVY8MlSoyoznFKhkwl5KmmpZglqAWGUbrUgKAw1N8omyvSrnzTAyoQB0I=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+131. 爱，存在 - 卢卢快闭嘴
+   歌曲ID: 1460682363
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729040948/9906aeef23c1203fdade90d8783bc322/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096527381/6b6c/47a1/e18d/c4d8f058d256ba13ea14a2ff2bc63d99.mp3?vuutv=vquNV9qRz2EX8ZX9f3kFOa3wvg6irR5PeD4+0o49wvIEAgt7iuTHqX5OhPECJyNYJlM61RGXTM37PIV4d7nlxJjYv71ZKCw5T+fBPkSCn8ZELxH9TPPmLNEByEWSePfr07rASrbW5N0V1s54y87tLqkh5Ymdku3c1D+hQhBBYm4=
+   大小: 4526124 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+132. Moshi Moshi (feat. 百足) - Nozomi Kitay, GAL D
+   歌曲ID: 2119517202
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040950/d9a08722b1017befa9a8ac54d2cd2717/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32961667863/2d37/faa1/cca0/727c9f5398df2f24a2a4afaec8745bab.mp3?vuutv=9tjTqrmw4EErqX0423CsO8SxADU457oOVoHPq4x/9kEII0mVpGG/qyV9SEONf09yNQWJSeBHJn9iROU0cMjqjzPCuS3Z1Ie9HxgnzV0+f5SX/mJVoZoXFP2tw0yIIj/1WhNsMo/UAAZrW7qtKMQaixxKN/OUNUcfyzuYT+NacCA=
+   大小: 2832045 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+133. 房间-新版 - 刘瑞琦
+   歌曲ID: 562598081
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729040953/962cbc23e069bd846acd30b33f4c1681/jd-musicrep-ts/000c/bb92/4b4b/a0d4447c41b23a187d687e6404ca8822.mp3?vuutv=VMV9JhkDIr5QS2jeEZdsp8v77pY0jxLs2sPkV3i584MguCwOJfaOext1mV9kQbX2w5MRY1dVUAIwxETeZdTwz5kluGcCWOnLW3Fiq0gCxQSiI+6NQLU6TqRghJWtg1W+XwY9yQBa3xSOUwtSNmo9bwQI3d3FuAm7YxWebDPVA24=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+134. 山茶花读不懂白玫瑰 - 梨笑笑
+   歌曲ID: 2019620319
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729040956/699bbdcfc0ac25e6fa4644023cfe3e00/jd-musicrep-ts/2eec/0795/14e9/368c417aeb4616d7904071c96942f5d8.mp3?vuutv=8Zvs5x7XaLVQiphX6yvYWTYsMARjTB4M34Hh85ZNLdvmqUA/6PNkmAKKD1fM3WIcrQrQqWCQO4NJWFZfQjx4jDnrQDFrAkUb2civYWurhTIWJOEj58FJgxfkNh0OYSbL2wWxfE1eUI5d4dV19Ds4cFsVv9kEb13eIiXwgUm9Fo8=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+135. 天若有情（女声版） - 高杰杰杰杰
+   歌曲ID: 1931994283
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729040959/30115b288e0571b17348a5dbf2e715ad/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/13640048917/4d34/5968/6107/06161f319c349b8f409aef0477ff96c5.mp3?vuutv=wBo/UO+Cl5/5OpnlHQ64rzZ7wnKKOMNMoZqlJ0CD3htHDp1Ry5Fy1xHG1UBlDezuB0T7oJMT9u30x6TlXZmYHviRNJEOyNkvZ2lIJQksYontfevJ1SpPCeJBY9Q1+6c2tNZvKHHIogU0esOitdzjcau7KYTjYglKIJRUrtK0pwA=
+   大小: 4138257 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+136. 是你 - 梦然
+   歌曲ID: 1966162185
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041001/ef3ef295d27d4e213d1aac0ddaad6a1d/jd-musicrep-ts/3e8a/7555/571b/568f087b545b820ed8b6d1f9dde93b7c.mp3?vuutv=hRBldGmcaDOk9sorLJrZZwmlu/Q59ATpcwwUNF17FY9PRkt7YRbMQHcc0Pe+YSA+ylgKqJ3FxuAhkO5gZgwkdUkJEkGoKybWRYiEA26I9dktxQSih2LEzecNo208Az0M1lGYMAUqOMLhcVPQtMeCXG1tSYtQKXjK3g0YpKTfjkA=
+   大小: 481115 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+137. 天外来物 - 薛之谦
+   歌曲ID: 1463165983
+   音质: standard (128006kbps)
+   直链: http://m702.music.126.net/20250729041003/6f00ac54ef5e5394632fd8cd35b79f41/jd-musicrep-ts/52ba/aa97/6df8/be6b2bae57e646c0fcd21042b2298d3d.mp3?vuutv=8a/XZKzdcqOw5rKV9eV+TzPJJq4Qtcic+zxZ3cclWXyqjT7Rc+WNNkqBsinjNHGgR7AMPv3Qcq3soLx1fd41Iy1aQMs3Cwqxuu0/W5amHWpwbmdbxHNSIBtviVJlyDJ6WX1zGF9YILdquwbwU3vO9pGiT9dCc+gITtoWGhI7bq8=
+   大小: 960932 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+138. 5:20AM - 刀酱
+   歌曲ID: 2124731026
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041005/9c748e97e26205eb7ac5ca965cba94eb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33489452813/8fea/3f51/7f2c/2182b6057e431155bcfaa8ecf0ae80e9.mp3?vuutv=+79Xiq8oUHxFyZIyntQcP+WE46omCOGMi/6DVrxCn9LI8Q4gsF/LqUKa6Mk8uRro+U0CSe8aKfa6b5SbMw87ie2QAP3P0TTXqpWH9M/mb9iT5OVYbDWsiBfgRWzX12zduObYI3pmoLG8CPTXD4IZm+lY6Or3CKM/sh3pgolNnn4=
+   大小: 2581293 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+139. MOM - 蜡笔小心
+   歌曲ID: 1387581250
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041009/99b720721d1fc869b05713553d326025/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096405766/3d29/e61c/1bac/0c0e25b74beaa9612a6343b2667b79c9.mp3?vuutv=7+3SLzorWjPSef2941vUF6W8knwm8M6MEM8PkEItzNVnV/ieyoGZFaQwTUDbtucaDKKOsNodDP7wkM/AkAWcysKPck/NO3FjJXWHFsr1RgIfYtTSTd/j59IxROI+uDuQrEJAX8KbtByJpV25szwx/3b1QsECVAIAcC16QaUr/k0=
+   大小: 2797862 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+140. 最好的我 - 刘大拿, 刘思达LOFTHESTAR
+   歌曲ID: 1975753397
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041013/4e08cca932dcba341561c1a9daf5666c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/17950226093/7d5b/b65a/7d90/50ee21fc740331c1e8c29d731a9701e2.mp3?vuutv=dxpsA5hyZpftOj66nlm1o/jfieJ3DZeT6cpks8L9jwZeSfJSwmT9qz/+ER6dcnDtjPn/cYVg4/l4b9+KEnpJFAsdY2Ksk6m6XuV3be85kIfRzB7dePL5jf77xXJFDNhvxpTz8kKiw/zb0DjB2c/bD+iUd+sc2Db9tMT5IzbxnQM=
+   大小: 3811629 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+141. 你在 不在 - 郭采洁
+   歌曲ID: 233921
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729041016/2367edc771695fa02c0328c735146518/jd-musicrep-ts/0e45/fcca/19c9/369db97950aa190b6709ccd71e950385.mp3?vuutv=E5Lcbr3kBBE1nfctPiFXXZ1KO0YXm2okAzyV03LtALlTbyWOo+NBiQg201obkLf/eeytDfIh5b7ITp37gNb/vox+VpQyietKkr3q1BjVEPi6oZ979h0BCgKZxWgjXMvm3FUjcUJU8iMXRb9CU66AGCbR6CbIzZJ2z7kmUizSTR4=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+142. 我们俩 - 郭顶
+   歌曲ID: 85571
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729041019/05b33a4450ed5fc0ebea541d06a966b2/jd-musicrep-ts/dad5/1575/2eac/3989ca41790254984f49e64e7de17c56.mp3?vuutv=E44hwmFS+82ukU4aM5uRcpVFF7M3yAULORZhIncuKSFjuvpEFKEjZpH0QsL1XB5QdCypzpiQybr2Ci9CBnnPgnb6RkPJyQ2pKDO2WLe6W7c+t+qsSBkNl7FTTm8PgGhyMtZn182xRNC30/NoRQyYcqvL8viLAZZpd2dv38RdDKI=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+143. Everywhere we go - Bell玲惠
+   歌曲ID: 2141631249
+   音质: standard (128003kbps)
+   直链: http://m701.music.126.net/20250729041022/8d5f3f8819d09ff760fdaf80229ed50f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34926338460/059b/4138/a012/2cdc43eb672b973447f72355311808bd.mp3?vuutv=mxOnq7p9Lvn5ohPIOjT1w4cEbHlVRTRWXt0J7u2U5mx0J7XM6Ap9TGv8kJPFviuxzVSbBGlN/934neNBEX+fAYuBRGYu3dbumkGmFyFp/E+3EL8EYC4NwGvpyunazSNdLbCklayGzSVj4JumUXT8SHuynmFMIjmjnGjB+NPYZkY=
+   大小: 2034861 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+144. 我看过 - 阿彻
+   歌曲ID: 2075085618
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041024/46a0d5018c1789d377051e2c07154ef8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30008358729/dc01/5b11/d762/2ed23e0b2080fe6270d00c7bc6f10255.mp3?vuutv=CgUKT0sMepZJGrTzkpZXWdOj3nUyrj4uZCXExpsn/f5frXd/XY92IjFFifvuYbAZHbOg37bJ7R0Szaomw0PGIIQUFXE+SAU6pd7JFv5UNc2t/XIMBqUfpPoLOKeBWdlQ3AyqYo27ZU5MrYJkq/TnqjwFK3o6Zs8NJwcGAPoToGE=
+   大小: 2311358 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+145. 晚安 - 颜人中
+   歌曲ID: 1359356908
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041027/2fd99538cf9fc2ab976aadf292434081/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096446195/dec8/bf82/b45a/5c91b6bae9dd7d29dcc283633c2e76a4.mp3?vuutv=K1OYZ5R5v6O+hiCVGFubj7jQESQpWUzP3hG0qnP2WqFn2WTxIsV/2Ssz+ND0yhSlDudC/3RGnzE6QbyLFSI29RUtWfgUWy1WaYSifsmH0ViVxHgDQvsiMMRrP2U22+WVFIHGf5RKGpmCSzCrk0IeQ3Ov6dyPHEWV4zOSnpecF6A=
+   大小: 4628106 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+146. 若月亮没来 (若是月亮还没来) - 王宇宙Leto, 乔浚丞
+   歌曲ID: 2119795491
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041030/d3ebbd9425277493c99b1ac9f7c1a497/jd-musicrep-ts/be74/47a6/773f/92e01c57520e098ab411be2be16e217e.mp3?vuutv=Ca2w/lNntWHb3eMNXkffmFuIrwejaQMh4ljDZ6vKpV1ByznbJ8i81sXaxo0gffWes1Tk9dr5GNj3yzxfCd5YSgDMbQXtcoCDcaiGBQy4ZVSuTu42J1YMiOEQ5L6rzOwS14zFrho572cLXEZvjOxCwNcu0xYxbmUil8lCza8Ogtc=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+147. 沉溺 (你让我的心不再结冰） - 邹沛沛, Pank
+   歌曲ID: 2034187125
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041032/f0c87037c158e623637872ee77401bb5/jd-musicrep-ts/9114/32d1/06c8/0235cf2de6a2221e44642510f0c8c9fe.mp3?vuutv=2mVYVy3mLL4yut9xfex5qCgbaQLS8nACet5vmwSdv2/4GI1Th1+qK5SO321T68h0OGtEjxc3natY3Cb4memXFypwIhrclUM480BNpGheKht2Al5/4Lm/jcLN8pSYvMQZ483fKW+yryK+4PYS/BPLIuT+YULTG7GZxrxm1NPiBIo=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+148. 未必 - 言瑾羽
+   歌曲ID: 2115519354
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041034/2e4a4c455d8764ac58ae962e992ef7ab/jd-musicrep-ts/5652/b418/91b4/74fca2ac31759cc3f6e685a92d707893.mp3?vuutv=9ABUqT8TCdYK227iW/YXtiqHb6+dPlZ9X0RByiVf4LMSqWPuFNJW5LdVXkbEZxYcNKq1JILFaYHwy5WvvPGcjj4uJ3og6aQ0OiIdBa4rjTe4x4d6VuP+lkZVOoKxELiAhAtp6wrJhZxwGMHc17JPZrR+vt7W6EUvI1ab1si8kBU=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+149. 身骑白马 - 徐佳莹
+   歌曲ID: 306664
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729041038/2862def68827f82fdbdb939650e85adb/jd-musicrep-ts/e054/dea1/4469/2970b5a1a150b19242224fa0b0fe99f9.mp3?vuutv=daB57LI/EwJnTLsmJmJqbBmQLSvLjxf3u9yMhVFc7J5JdXSuVtJFyIBw9IpBtzuAJXbv1cRYHhKJV8cPQiIEGTwRrQ8Eg2mFg4hBKcJNNd0TCSKMHJYb0K/X1LyLbCdjFIFjqfKELVBD3RbuGTdtxdMhcjRvTKqm6QLV+L1TQd0=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+150. 慢冷 - WiFi歪歪, Mikey-18
+   歌曲ID: 2110966810
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041041/9ede90057cbab4ef3a23cf6db83c1fdc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32307624467/3947/2c0c/1065/0ffbc2154180d7ca09b4f001f5052ee1.mp3?vuutv=IZIwyNNOj56JaZbCCsCsDoPb8CAyk7M3hWmayzqs3vz1YlQ+X1AXPr6Z9lYcGxCOe0Gjbe8wbPrxVT5vFr7q7qzxT+Pkxr0teIYWWdh+TFbu/yGNZATE1Ej5XCslmBOYmT7/ik+LUOjkRwoRZlUQ15f0sWzl88YbrJ/yjpmm5uE=
+   大小: 2860077 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+151. 第57次取消发送 - 菲菲公主（陆绮菲）
+   歌曲ID: 2692390754
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041044/d3c5ff6270604a8c049ef9d7aa9468b9/jd-musicrep-ts/163c/6784/dda0/75409b2c826b5ff2881cee731b3d1338.mp3?vuutv=c5ZBcx7weA7vLnSrIBcFFb5Z6+AvnS4MWPsXPVi1dXzHJ5yI67CKR8jZPDxzBdG7hVQh8iBjhMNWMoT97OCDzByHz202FDGrJDXIE9sQEsL5GZIfcJ9BZUW9mRpfIiqheblB3sreUHz4o2MGRVqOPy7dehykH0ToCxnOdWwmR+o=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+152. 九万字 - 黄诗扶
+   歌曲ID: 1335942780
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729041050/a74c77dd7acebd203ef229b25c00253b/ymusic/015e/0f58/000f/64660e4659828c7ccb6e7ea58a646e7e.mp3?vuutv=pav0vjc5+b/mQDwQYPG4nfTFAQwoP/U8tM2c3UT5T/rXlJ9G93MtlV4uxUKWagP4PxUKqgHRlsIVaZN1/8a+ub0JbC4/OCBeIGZWvGUc6rWxyIOFyCM6Qu9P+7o4grOAuHq1bDhb3deS6rWWzrN3ROv2EmCvvHWKc5Jw07fF3lw=
+   大小: 3714029 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+153. 冬眠 - 阿YueYue, 刘兆宇
+   歌曲ID: 2110700883
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041053/9c99207a2c727e1dcfa1a33ae9bfe7c7/jd-musicrep-ts/1a19/fc79/dbb8/619512d8390db1552a1cbb02b0d8e1da.mp3?vuutv=ixfrgx1s7nUYh1KMqJ8jqAXZyU/INhS+piVf8hfLy7thEXYxKlw0AM9qOFDo8fU+8b17jN9lXw/eQFbTkE2qnj2LeWzH9DOwa+3N7Rh86bxWs9JiFm+hB9Q0i9C1GFKki4px1jbcu07MwxJmQqKeTzaAwE8it6rOFxeoCixlJPY=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+154. 坠落 - 蔡健雅
+   歌曲ID: 27747329
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041057/6fccc32aaf69b2ab32000074df79edc8/jd-musicrep-ts/b366/f390/5683/4447825084a4853638fbc98bbe78e5b6.?vuutv=kW7sC3WdNb5W++jpYwv7XDdYMWqoOf0riAxEvrQ1Sx5f0C/31pLjnByYwW6anJ4DRWsT3CLyXyt4pLVei3HEPNqm0fo/6VUYIsmcuzGZoG73ENsQolJ3skGnNeQTXj6m8mTvFgoWFpzdwjFV90elY6sc/9brbVoKDzGWFUnqi5I=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+155. 你 - 郑润泽
+   歌曲ID: 1406083061
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729041100/d9e6d19aef0dd49b71ec4b1edacf3d53/ymusic/555b/0008/0f08/b1621de5ce7b69b62ef88bc56d6c5c7d.mp3?vuutv=sPfKFe8OM4arMXFfduzmQo7VxVvXLVYMhBAZTo5GBRA/WrZ+UudU3JUCLmwGrV+dCoRbXZgtFKDHTipSSDwqROyx1Jyf5lKoF41s7uMc0qtLnhTa1ByN7hT81pRQvD/ZA+MAsXezByA1VGNiZ6BL2jx3Dr5TewlHb4kgUy5vgr4=
+   大小: 4077653 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+156. 唯一 - G.E.M.邓紫棋
+   歌曲ID: 2083785152
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729041104/e0023a10825d5011441f1034263138ac/jd-musicrep-ts/c313/f818/d691/ebbb696ac3a70704cd8cab4489fa0acd.mp3?vuutv=T4Zck7l8kVyC0c/eYFTVyRvJBPxvQAi+UhU3TxpudBoRZPs7v71nmCOGv14byCPdTzAwEOkqJ/zUSiVyZXY/wMUbPFpSZ6hoLOJe18m16C1Y8U3y1GVt3kchynBy/v3glZjzW15bNFnH4FgH/S70aeQRQPr53InjF6MH3ksxSCU=
+   大小: 720813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+157. 难生恨 - 藤柒吖
+   歌曲ID: 1921341405
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729041106/62c103dfe747b39218a3b657c0be77a6/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/13293276592/3bfc/7752/5588/48513283e9744998720aceda6c646489.mp3?vuutv=zZ0LTzSsAzTfaTj8eTMowykmIEl5o+cnywUxXlOhnZmdzcWHuT7WejCQuRGomzxOo9seRT42tQs85OkY13h8nwSQhC9OLwo/HXw/WmWIqmRIHvsWHPGoFiX9ox/jMWvkTpJ6QEtRwEOqI5erKVrjD/E6nmjGPq1v9edGNum4wjw=
+   大小: 3574701 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+158. 长岛加冰 - 21.
+   歌曲ID: 1486484277
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729041109/9a2f0eae48119b84757c0138c0cb7323/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14052504680/dff7/a20e/2aab/4f90db439757a667e7ee169edafd04e2.mp3?vuutv=ZWB2OXGbqQmoB68zBU6IMOhCYnIB0irnCj1w4lp+TnEiP6P/mXVjIctUYMMCDZZMNiLFdFSDh+Raoid4DStftr30S+fNOI9zdLWLicNfpxv5ELuax0PtFjy7TNu4gcWwSDeyTjcTPuHpnExEVVg7DORPsAHz6iuSdYmN3V/r9jM=
+   大小: 3123501 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+159. 零距离的思念 - TINY7
+   歌曲ID: 2673175226
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041113/c7e5fdb7fb99c544c039a1dc8999ee1f/jd-musicrep-ts/5cce/85a6/f348/391a5c7632ad1b64674cd106b164737f.mp3?vuutv=MGDHU+CcqpdThevZNd7/3f64pfAutbzGxfRGvjWVxo5xFCPiWYjc/wMQk3YMELBDIo1Rk5G7OQuVn5hEiWGq25Eg4aHu3H/S6zRyz0apG6US/VvM/rNZVsuk9XJmtVxHI7tBHIKQcl/J3nebyaSU7xupLAKCckrktr4rVrJgrdc=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+160. 爱情讯息 - 郭静
+   歌曲ID: 233888
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729041116/e5db4c8afc7dd947ced6ffeda892a907/jd-musicrep-ts/30ce/a945/a340/6a98ce4819764a3b4c09a97d2888fc82.mp3?vuutv=AzIluFluty9YFKhY22j9DvPRyMC06UDMGHoaYnwBLK7n8+6/TV9MJ5172dHkLoLeLqzR5RsgybFJIdniUK4B8F0yde394h0FjZgnxZqiIf1WAeV9/nCvhH7WZzaJttG2pu8t9svEotc96gVVauAFZX2YHNWZSsj2YfhaUeRLAPU=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+161. 两 难 - 加木
+   歌曲ID: 2163210456
+   音质: standard (128002kbps)
+   直链: http://m701.music.126.net/20250729041119/2ec2d9f3bdae6e3d94bf7d866078eae2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36433247255/635b/cba7/22ef/06f69f218d877d6c65b5c5483a433d7d.mp3?vuutv=pitNLj3PDyrG59gYx3Am8wDJscoYwo4nmZCZflMjkDZnRZmte45p0v0BTB+LaUw2d0Rfij3j+ZEUCV+1JVSUqnAsZpTg5SahDywWIDSQaNMgaTLXbuhBA1TuQzpP3KvJKZrUFdG6qqdR8CDKapkXVejQVeELUr4sWNQQfQAR2NI=
+   大小: 2721069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+162. 小船 - 163braces
+   歌曲ID: 2055507089
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041122/4e2ceacf956122e7e4cde610bbb98ddd/jd-musicrep-ts/c79a/fc10/f678/bae6c447d884cf2e704ba57f470b998c.mp3?vuutv=KLiBnsM1v1FQC4xoc3WWI6llxqgUaFCKffNrY8CfNCaEj0qaAt53JtrhpAY2EjDXTLF+6p4NH5SFLn4Fhizc170uLiZjy1oyhIgnMzgX6DRiAyt/8u6sAekt7U/SoCrgW2hD0Z/XHlVlzMEYxz7TF0aBPjLC96uV+v1fnTMLBi0=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+163. 彩色复活券 - 黄龄
+   歌曲ID: 2641552552
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041125/0bfb30f8fde8fa6e8249c6fb375ecc80/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56113819546/6150/a9c3/8b2f/f504da5691202de9bab9013f1f4f700f.mp3?vuutv=UFTUuzrI3JkCAVWAuXX/GjXEvxgn/C1YMaV7obiNKe3RLqCQj0RBg6MpL/0DksKe1rfbQFa+n1kSs+P9fP6F9t+3xsYTapKkjIrsCfYSCN7alT0QKMYw0qvRMB7eNCBDIMLderJAG3KQCpVG+fBoNUPRdiSWipEbYCBIndlJFyk=
+   大小: 3022125 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+164. 只为你着迷（完整女版） - 小匆匆
+   歌曲ID: 2666314815
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041128/1337ba7eb93584f78150a925c501b906/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57668702929/3f72/31fb/c62d/79cd1105d7c4b14e29b0dcf33a7835bd.mp3?vuutv=/aS9yHDJnHleWrWMJ2KZncqalxM6j418YPuTEwf/fV6L9XikuOjoHCyCCMcXu/t++o9zllpgT3nzpd1g06dYVmNyCuvdqF6c1i02xqu8E0yrl3ks4DObZWcU2bDVyWWhsTZu2birR3UOlu6sPtMuhfeRVfF/g+ZZRbKg3YGp7Wo=
+   大小: 3835237 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+165. 和宇宙的温柔关联 - 房东的猫
+   歌曲ID: 1959667347
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041131/da25278b72b62d5b79a7df05cfc7ac9e/jd-musicrep-ts/1fc7/4895/e55c/2b16e1403ed5528cfd417fb4a96a6de3.mp3?vuutv=lO2Il8/e8u3laxu9ipI1V6VSeLAlqg0Rp/64BLtalO4Gx9gK575b2tMco5xbWpwlxXG0u8/Smis+fRNBL5rSAZyQTC85HSYggY/VRJxelldlJ4zhuc0x3d72mMnUGCtwMSe0jshdFSzuTBeCRFBW+yX/3+Ju//5BsABlY81hL0U=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+166. 上仙山 - 浅影阿
+   歌曲ID: 2660010022
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041134/72159d6d1f8e88cf63e772375a75775e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57279461307/c52f/e196/60ea/3adf1fb278bb18972d6726c096ac37d8.mp3?vuutv=kiPq4dXEkdM55ouIkiolo6h6CY5WoNCBfEfET9UQAx30I+MsvZCdsu2QGLhU2VyL7vCuqZIq/9ZMc2NP9Kr0NVve+JQHv6qR7eiQ8o+LR6ZtHp64/ndCAK9aXdu9P5yzb1tYSMmbXko51PEuyavaLuCMg32Ip+NihVcY7roBl3g=
+   大小: 2586285 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+167. 说爱你 - 蔡依林
+   歌曲ID: 210042
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041136/a9137bfe29e8155a186c5a95bda818e2/jd-musicrep-ts/d793/2c03/b1f8/eaefef6c409cb2b1e50774d74df4ff5a.?vuutv=o7pMnWa9RJuqaNxTF0Xusq9Fsy6rrmDCpslaRX38N1LgVOxto8yZwIjSHu6FkpJJLjcj0kYpd2eNFlH5Ww/+qsRXSJ+fOUVsBHEC8v5M1vth6brH9JNmrP0VZ+VOGC1A9Ad89R+ZWi0WaXMHrgaExiKZotY248eoM43uyfZzb/k=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+168. 1022 - Aggylow
+   歌曲ID: 1862467472
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041139/c8ef0614e83ff4993ebb777f50bb6ac5/jd-musicrep-ts/e77d/eec3/8cae/c3f643bf8f03a84ba17c71bbf097d20f.mp3?vuutv=aAMPNiyr6AOd/I3hMDuHJXLUW5RgzXtHvCyxYeAC4/ZNtGkCSpx4bIJ6eLGQQi0HaT455ymME4EwMaoF45hTR/7wOPLbonrdhfyN+ToPKvpxO1T4rd63hu5MBxsuWDEjRDuD351Gzkr25TxRHaD9c1kMNrKC7nwW991joLN6geE=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+169. 拼图爱 - 蒋孜怡, 岳燃
+   歌曲ID: 2655850235
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041142/155046b8b8b010fbd5d4b85806247139/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57039922236/80dd/cc82/fd98/46ec91c09307e7bc9fabe26169d15dac.mp3?vuutv=ToZQX1pw1MCe14n36ijzvwzukpMEESSHiUxaYGXZr8wKzPxR2lCQ1bT//ORF1mxkq6B0wfToOoZA6nNfRVAXNZST0jhfDqQb/B8Y4vW+ulajqD6/tIxGCO0v3nOUnfgP4IpBwX4INSVUzHiYnXxUnQyciH4A2siFVPcB4nDtgpc=
+   大小: 2421549 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+170. 我爱你但是我要回家 - ET, Happer, 无面小生, 口古口古
+   歌曲ID: 2647831829
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041145/9c7568a04a92fd6c289fe284b53dbe39/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56572092815/7b54/8882/2074/6ed7c0a290c01ff0edd4c2412ec8a9d5.mp3?vuutv=Sm62uJ3lLW9pEjDu29V8yJRh8V5HUD6F71NjijII+z7hBp4WkI9IZhD3jVOBxfzFiisTT+n9Ynulnu3OctltQTsgfKJ5So93xmaoPZ5dfSfhxyUzhYyY30yDPLZ4t/eDEuMnkIuc1qfonUwqoflvmtxy2BksWd7CTmCqxKO2GfQ=
+   大小: 3108525 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+171. 爱错 - en（王翊恩）
+   歌曲ID: 2629921305
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041148/c133f3e323bb809648294604e3cf317b/jd-musicrep-ts/d1d6/e97d/fe9f/c5d069b7d22e1cfb300f01309c7a5aaa.mp3?vuutv=ttcOUzP/qgwWZFLvz0cg6HW8+ey1AID8PfkJz6yzFeRqPjF5jJQVGc05LVZDsMfBRq/oaamhgmMWTjY7VrUCn5WEZOLImh75JriUevK/6y0E9DNHMjp69Tdd8YaNIFkPg1I1b2rwxNTHVrQ/zlyAMK9f4VLTyKy6hSMr3SVfgUU=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+172. 我看过 - WiFi歪歪
+   歌曲ID: 2089636257
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041151/282268b12058b2c97be2f817bce8926c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30793980845/4420/a534/ec26/c49ca8d3aa38100979a7e51a0ef3de44.mp3?vuutv=SeReP5gElUYvXCoQzDCNjGo70LkmzJTDm6tjlbmJMPRMLNYD0UGq9TmAo5CtFdD/Xlvxu4/1Z5z3ynHBsCsk++9qbwo5+67vqwPTfJExU5xaRhkpAfwnWVCfcX/4RL0gAPRBz2BtkyP30mcfsIHwoTseFJDfTAk7jxDP7E+bRyA=
+   大小: 2408493 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+173. 黑夜里的阳光 - 杜宣达, 费米Frieme
+   歌曲ID: 2074448544
+   音质: standard (128002kbps)
+   直链: http://m701.music.126.net/20250729041154/9b43ae962760e23802ab746fd65be1fe/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29973960894/b369/2147/9e68/8334158b178ffc79dc9d0a75af6b4a8d.mp3?vuutv=WN7+OJiwS7WfgLUA5UACtfOqmuiBy8iVvoGRP4leQg450w2BuKHUFtf/uM3COLla2ZDvo+KXNGNMYoW2qwD9H5kQ7Qoc/mvsqnzkhXLWvc5icctNzfnEkYQ5IgQqrH03jqA9FgWrh7De3ZgZ/EKdzQ0gKA4LaMZc+fEm8UmNSKE=
+   大小: 2658477 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+174. 不喜欢下雨天 - PIggy
+   歌曲ID: 1371046568
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041156/ba9455464b6b8a1f38d83829e9150179/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096505570/3604/bd5b/1ca0/33722db18994093e897eb189eba2d2e6.mp3?vuutv=XUUbM2gG9NgPSnWtaUwR08BMMIGG2QbXtbeLTKJRek27mVjkCDzRFXUnvj0BPom3IQxC+7pSLYgTQsxLEA0L7ZzC1RS49Etj3ZHiLhXe5SeTzeFfDTosnmyyuIof/oBc15XHqzhfXZ/YzNU3DSKSsvkQuj53SWWpp12oiykKxTk=
+   大小: 2750637 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+175. 洛希没有极限 - XMASwu(吴骜)
+   歌曲ID: 2614799449
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041159/ae9e218d14c74c33a19e95a37c6b0072/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45067125304/41bf/add7/74f8/610f206cbe585fb0d4508bdae597a4a2.mp3?vuutv=Z3aCj5taQtOKUfSJtb5T/+ZBk7UjgHB3vwqRfJpD15ex01YnzPbdbWaPOqySqHDy5vmm1e6/XrZQ09d+pmveeMlGxLXab3yrf7v9bOYM4Gx4KmVRoG63VC+xj2EUO9UyrsDqVhcWrb4THTJCKN2N8C7JIC+hWDSTf+EjI5XbUu8=
+   大小: 2839341 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+176. 是想你的声音啊2024 - 制造热搜, 果妹, 傲七爷（江偌绮）, Aioz
+   歌曲ID: 2163953992
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041202/3e3390d242490b19ea9f602e48e69085/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/43939672745/ef7f/7817/5493/460dd4a1aab1ae8188b17695f4bec954.mp3?vuutv=isPUOi2nkfZt8eUTYHP8sQgMNynfEdph+Z2yZtTJmJS4MlCG2f8eBNYmP9GrN7iVbCixL3qSldtQ4/0XgE1g9ZQM69UwkEmhdXZLZQCQFbKWIgulujlYOC6yWtlUdeyxmvKPAnghmnGGp763XXeERIjzfQgIYmnwFga+6BUcM3s=
+   大小: 3061177 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+177. 暮色回响 吉星出租 - ORCA特米
+   歌曲ID: 2616910865
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041205/b9e898095565c2a788a53cb7af226156/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55756928542/5aa7/233f/68ea/eb2b5c84ef53ba2336f2e704db865f84.mp3?vuutv=6MFAJ6iGQ5qSh+qaWhqrmffqeIDCu99YYNtpBn1SXo1Nba01y6ltnuY3aHlkZyQVuuuy6oiGoVdtNclMcT0FxOju2UNaVZmnNuU0tbpmwKo0rWNjYo81vfHo4gotfvrC1/o43UTA6huCuQnjK2VGLcIumOfqbaEjV5YipNvjS50=
+   大小: 2854317 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+178. 我只能离开 - 颜人中
+   歌曲ID: 1398283847
+   音质: standard (128002kbps)
+   直链: http://m8.music.126.net/20250729041208/04f0b8d7cbc85c4f9a2f34e984c95bab/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054117261/e592/91f2/68bd/65cf08a2cc55ff042be2f2c5952c4969.mp3?vuutv=i3tG3lBquwOh38D7I8a58ZpF1QdP8m9QKy8F/U4lggh/AVGvDBx7QYgx8p3LYKWsNoCFlAJ+NeCTqyL4TvzLnWjxm552GFe3H3NKqcPLNzDVlZvKFL3rARsv+Ci6RDE5hMOkXIj7XNbEeM6pkGG2xDjhe8bEQQXTW1lJBoUYxy4=
+   大小: 3681069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+179. 不说 (女声版) - 落小安
+   歌曲ID: 2062926519
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041210/dca589c38fb6dd22b955244381e6eaa0/jd-musicrep-ts/786e/da9c/8598/9bc7641c4bbdf736f4d7931ec20398f2.mp3?vuutv=6shoaIyXBFcCXgr0YmMywEgZ64PQSW3Lnl99PyBqK8wFrrOkD8pBVKpx0edYbypNmdQ8H+f0pmyJ03/oqEGPW2alHIy7UsAb6Dr3xgR8xaymn3J6IUqhIkTgvcJGUdlxDoceFpHI0Ij4rhAoOm9+GS3Etwbjrtsi92wK9GU+/zs=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+180. 危险派对 - 王以太, 刘至佳
+   歌曲ID: 1877996649
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041213/218f7ffe8652ab1be8085129655c8f70/jd-musicrep-ts/8fb6/cf57/0f93/575bca2ef812892fe68581232e662b7a.mp3?vuutv=euF/aWYfi4DokeHXG3w7tidDRNcOc9B8qhDU4w9wrcidjHo0uADMcoXPGbCsETjrQOhvpRv5BVeUSA9I98cKlk9Ta+f5oMrI6xYo2BK0q6jxIy8GE1IhmyszpDFayacrxYmr5z93W581Lmv/BFgfcbSB4lL2Q+DopV+zdopsdwQ=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+181. 爱，存在 - 卢卢快闭嘴
+   歌曲ID: 1460682363
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041216/c911294bb0e41e28ecb9a9f196a283bf/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096527381/6b6c/47a1/e18d/c4d8f058d256ba13ea14a2ff2bc63d99.mp3?vuutv=7Sig4nRaPbW566oXFc4vXA8oNpzpeL1XXVh5lQHLJuDL82rTQUYzMhwGeuKvsHm1AnY0hDgIIhLlQIK17BTsJsSzc6qeZM0HYpRxbgFjU5Y1v9xxJLp9/m7LsT7c1UGmX8WW9cxbCbv2P11xdiNC/pGt31cB1mtZHpkDRNeTJQo=
+   大小: 4526124 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+182. Moshi Moshi (feat. 百足) - Nozomi Kitay, GAL D
+   歌曲ID: 2119517202
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041218/27fe93e4100a057d259622303affd52f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32961667863/2d37/faa1/cca0/727c9f5398df2f24a2a4afaec8745bab.mp3?vuutv=c71s/Zo3RclL/7fPbM/2AYPKrwD3Dt4BaWaY63l9dosZQdSqVWxvuu3xkHrKApaBODgNlW4tTKRB+To5RsBJsL3QgRLD1Rpl+v+rMMAWtTF5T5aHjNOgwk+lFJmXoT84Lx4Y04VnoQ3JgKUIAYPhxxJR/+0CsGcL+aQde8b0RqY=
+   大小: 2832045 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+183. 房间-新版 - 刘瑞琦
+   歌曲ID: 562598081
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041222/f1231f9a12dc5cb1c36293ff517afd6a/jd-musicrep-ts/000c/bb92/4b4b/a0d4447c41b23a187d687e6404ca8822.mp3?vuutv=fLFd9JI8ds3KK5j69Vm7zo2WJKGrY0JEMZousMVEJnJOCjygPKjKwNr6J0QNQiDaEvXyR79TfpMcxUVioq3UbSw6fKNct1iNatuSyNeVtYHSL6h+wVmUti63I+sI7X/x2eoipdDYY1rwY5QjtvhXPT1/c5X5e8pxHJgDla3si54=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+184. 山茶花读不懂白玫瑰 - 梨笑笑
+   歌曲ID: 2019620319
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041224/01555cdbb1dcdc25dab4870eab3d0787/jd-musicrep-ts/2eec/0795/14e9/368c417aeb4616d7904071c96942f5d8.mp3?vuutv=3JSsOzQpY2ZMShEdNBv5Gg74eCxjfCUeXF0L8ptThCGEg/dKnjEWXYeJjVilik94yaIZGtc5YVnFRF5QROeTpKsAyUbzhonuFuizaT8nFHt/b4GgyPuBfdwaXtHWa6+qVe1k/jnnW8nvyf2mO0j57kxV0mBdZCPMjHs9IUnenKM=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+185. 天若有情（女声版） - 高杰杰杰杰
+   歌曲ID: 1931994283
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041226/7b67743b82ee651fdc950ff442ccf5f4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/13640048917/4d34/5968/6107/06161f319c349b8f409aef0477ff96c5.mp3?vuutv=KkzQ0zAWiBgQMP3sRC2eT9CguEC23Z3PuCpwEmgM3/NNv8tEgPKMPHvaU9NbWMs10A7G7C/A7i2B0ZRDSTMueMZeq5+MJ69HRK3D5uibBDPuNvIOh/AZBIDYkppBdbJdUV1Sii40uZXtDREQq0KIOkYdAMZt33N2WA448WDKZ5E=
+   大小: 4138257 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+186. 是你 - 梦然
+   歌曲ID: 1966162185
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041230/0d0131a55a7fe4ff75299c7fe9414e38/jd-musicrep-ts/3e8a/7555/571b/568f087b545b820ed8b6d1f9dde93b7c.mp3?vuutv=1Yi5L929YQmvImWQmsW6n98EYMZxtVUxY4j9MMjptOGVuj+745tqRxlmI6hrRMJhLrkcet0zKi/XhXQUl3aywAGa3+28XtU0XrElkwoL/RIqeNB0tNBM819lUB4GUrukwGnfE/u4qwVb/kO54nSy6dKqV/CnPc3E7Wibc0Cbnek=
+   大小: 481115 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+187. 天外来物 - 薛之谦
+   歌曲ID: 1463165983
+   音质: standard (128006kbps)
+   直链: http://m702.music.126.net/20250729041232/bd4f721802fb4355e8b6b2d58821f41d/jd-musicrep-ts/52ba/aa97/6df8/be6b2bae57e646c0fcd21042b2298d3d.mp3?vuutv=A9cW0X0M3WRf2AJVq0ayng3j7hCYrrKLbYvQ2LQHuYSsDdMVD8JdH/Sj/Vcx7vZnuw3q5whkO5tf1zgFQ+m2OvhmL54xeiGPiM6uoW6BeXkRSDxjxDyKCtelnwo8+EAMKWegXhNPNCaRhM08GZd7kiA8Mq5u9zb5jw8vW7Wo2uo=
+   大小: 960932 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+188. 5:20AM - 刀酱
+   歌曲ID: 2124731026
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041234/16bbe8e56d144c04c020bc7897eea4e0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33489452813/8fea/3f51/7f2c/2182b6057e431155bcfaa8ecf0ae80e9.mp3?vuutv=GEz0jrGUf6TSHvFSa5WLsuhb2i0BGFjcBhua+gVFVb6B+TLp3LlQroXjFqJJwhfV4sZxmJQZDHPqLbkxvOygM9M3atMvWMAAlHRsNldrMDg5+eDius72q6/yLVYFyCLyqLPt1ITdfHbCbh4r91A188T6/u3PDqLQseHwmUunFfA=
+   大小: 2581293 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+189. MOM - 蜡笔小心
+   歌曲ID: 1387581250
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041238/9561ab9e6ce907b979de13e3f095c353/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096405766/3d29/e61c/1bac/0c0e25b74beaa9612a6343b2667b79c9.mp3?vuutv=YyJ1MvK7o8+lXGkjyIV9dqeut+FiblQyK/idvk6tWYM1wpKFkuAx+OWxDluizr6H4k9/Nu4dXe8fcUs/dH8TZJ6/r6u+QqpZMKVJ1CMIRw5/gAXovWacfWCCeBMZInSun4EXP1rTTHTXvyFZeKuTQVx0GvtCGuLU045RSLsBde8=
+   大小: 2797862 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+190. 最好的我 - 刘大拿, 刘思达LOFTHESTAR
+   歌曲ID: 1975753397
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041240/d63886a89eec4e10705523bb3c3f4f3e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/17950226093/7d5b/b65a/7d90/50ee21fc740331c1e8c29d731a9701e2.mp3?vuutv=XcYzIOe4EsbH+19WeyC3El3QvJKxhcbyr7afyu1G+y5HYejAGXLM3zygEqvi6gze4nx02flZolZ82+4F8ulL+xaX7A44wDZ8OGztMVWlreaZQjNzg8mqweax82MtBKvSH0cPWQwTaEkmoP4SfG4m3LhRVVs64z9Xqr/y2bJDZJo=
+   大小: 3811629 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+191. 你在 不在 - 郭采洁
+   歌曲ID: 233921
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729041243/355d71a54869680af4b9cdcb559bd433/jd-musicrep-ts/0e45/fcca/19c9/369db97950aa190b6709ccd71e950385.mp3?vuutv=iE9VhLRJKJ8Gb3uGXnqXJOezRmLIEE2w8LNrZqOFOtD31kqbwUK1tQ0WHs5Z9PlFdHQZk66B0px8Bp58hSSO7bi6GkWyn2kk4Co5DtEzWr9gWnFRCIj+Ula51Nb5eK3Jki5zQhfrV3lz++VQzL91kleZba0dpTIz4/J1o2XNq3c=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+192. 我们俩 - 郭顶
+   歌曲ID: 85571
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729041246/be097e3d17efd9fe96ad6ea1cb4bded6/jd-musicrep-ts/dad5/1575/2eac/3989ca41790254984f49e64e7de17c56.mp3?vuutv=AgnCfjHDpNbrqLzMmqGkMP16mvKfT6HamIVfhZ03rws2blrvdKtN9pMFieVF13x3KpOD6lgCcVrcSUpeQdhlkeOP17HCxeDqCETY1V8IZIIo8EFZe8XFToGqG6UbGhMf8ma7uakzcsZe7XmjpQ8eVNRAmtwLzMTVcV0XByDEZFE=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+193. Everywhere we go - Bell玲惠
+   歌曲ID: 2141631249
+   音质: standard (128003kbps)
+   直链: http://m801.music.126.net/20250729041250/0cbbe6d323349921fcf4ae4357e926ba/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34926338460/059b/4138/a012/2cdc43eb672b973447f72355311808bd.mp3?vuutv=SV/Wd4tXrPYdkZZZz6n+IQHWScfZlaFetS47R9rsXSV2WOEpkV+paTtBOyZx2iOlFInVwLt47x7nX8A/6vea9GolIktWGnBSnzCZ0PngeMnSwqST/IJuf0hS19t8hRZJOqp/fTTcKXls1q9KwK3Cqt5ZkPcgMzO5zNeKFjtFCnA=
+   大小: 2034861 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+194. 我看过 - 阿彻
+   歌曲ID: 2075085618
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041253/da7599870dd88e505ea7e2f5469ed7fe/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30008358729/dc01/5b11/d762/2ed23e0b2080fe6270d00c7bc6f10255.mp3?vuutv=a77dXWQ3/nc7SYVvAlYo2RCrCoiytcxdS+gYkR9YHC07XfAQ6yPO5QNu+WDJ8+pL6JPbF2/nN8AIR24vyveTFxOJkTlprpQiO1/l7CW0SZjS/MgX+opz8WBICsiFainnbxG556VJjFvFguK3qmmKShqBrGGhNuUbttQSqn0L7AY=
+   大小: 2311358 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+195. 晚安 - 颜人中
+   歌曲ID: 1359356908
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041256/4561a2074af436d6956629bd92e495de/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096446195/dec8/bf82/b45a/5c91b6bae9dd7d29dcc283633c2e76a4.mp3?vuutv=Py3WR3FmX1o0YCzAMllBwAUifnq74ziKDU6zD5xf4B9/UT+n8/laRvUNNLp4svKq4CtErINbz/Wz04DXAkvPUV+7PVo9RhuOKM4d0jM1fyWc7ie5WNBjVBtvW63Dl6bPaHZcGyjZhsIXw5c98dXBytIFZC7FUTe7VNVIIqjYRd8=
+   大小: 4628106 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+196. 若月亮没来 (若是月亮还没来) - 王宇宙Leto, 乔浚丞
+   歌曲ID: 2119795491
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041258/881c317a984acfad5831746420388146/jd-musicrep-ts/be74/47a6/773f/92e01c57520e098ab411be2be16e217e.mp3?vuutv=i2VLLTDai7N0j/9UBjSzx/bATxHZ1U/zpjRBjmP3tgczrVNZZLIxQ6uw4efpF9184OfNtv7U477nypHmENOnHFI6PcuL1ICoxOi+qJgOPfTpzeHIWWGnYnLztxCxXGKziZbHF3CsAdALt482oBFNQLZIdRk/m2vEllMzL2DYflM=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+197. 沉溺 (你让我的心不再结冰） - 邹沛沛, Pank
+   歌曲ID: 2034187125
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041302/63eff40964ab1298835f87dd1279bf9e/jd-musicrep-ts/9114/32d1/06c8/0235cf2de6a2221e44642510f0c8c9fe.mp3?vuutv=EiW2sMmJqxXbUgthWEflvz92gKdRAPL3GqCqVCSTnqhNKDVy7J/WEPefZyJ4/whW0V27QqaF5bT6tNLwhSBvz57+WPSdKbg1JngX0qZ8UVJizYDo9H5ChGAWB+8t7f08/Ud+MNw817CYxgdMI8jz94LM+APr+z3GJ3BMIfTykbA=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+198. 未必 - 言瑾羽
+   歌曲ID: 2115519354
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041304/a3cd84b72280b148f25aba2e6f4911cc/jd-musicrep-ts/5652/b418/91b4/74fca2ac31759cc3f6e685a92d707893.mp3?vuutv=6Ed4ftY6kTuKF8T9Hjw8zUZYMdv6W9DLFYAX6AxnESTkm6c9c8PdbrA7Ey7aFRk939qqxZBjfMIovqTc0adNBCJWbC7STplFQCdITiEJzhJ8P53/5Zb4tQ5AvlnelYoF+4YM4ldbU5kapZ9sJONU83k4h13EmBnPW5jbW0EB7CE=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+199. 身骑白马 - 徐佳莹
+   歌曲ID: 306664
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729041308/1bc6a4a3fc4e19524bbf21da8135cc2b/jd-musicrep-ts/e054/dea1/4469/2970b5a1a150b19242224fa0b0fe99f9.mp3?vuutv=IdFDxNgnq5EZU/xDOOigHtE6Hrf3rci5MhYdnFT+/IaWpqffSFPsSdsqKyQHTKmstbe6VreiJnbl29EEbntr8gSKzschUJ5mtAARBnUBMHwFf68wEy1HZWnxRrstp8p1qSKEqpN3lLozhdofTdUjBwtPoRqIKuPxk1/2uCf08aQ=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+200. 慢冷 - WiFi歪歪, Mikey-18
+   歌曲ID: 2110966810
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041311/e903d9c3d93a018f05c30b8d421c0eeb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32307624467/3947/2c0c/1065/0ffbc2154180d7ca09b4f001f5052ee1.mp3?vuutv=PdVZ6I0Q3KjarcgWapemNRiROUEDVmPlMgKwi7A+ALDJdZuNky7FKxvmsydmuzPPRDbIJvfFgPqI/b1jOlgqdSYn/TYJ97hwSnqzMkHDwwIqmtWi6c0Q8VdosPhMzbSi/J+yOBNkMh9PICiwuEDYWMUBouEfT74oworpfaBECzo=
+   大小: 2860077 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+201. 第57次取消发送 - 菲菲公主（陆绮菲）
+   歌曲ID: 2692390754
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041314/0d8fe8608df351f1a744f7986737cccc/jd-musicrep-ts/163c/6784/dda0/75409b2c826b5ff2881cee731b3d1338.mp3?vuutv=2IBL7BY6qVbCw7KTL8A1X2B0uGUjzHZoLcDTZyWkYEIp/a9ZgxfC46s10bLWTjsMqN4Tpv2XeGsQhb+bE3jlTdd48yy4xm4FjSs+QAKW5krNivRbR99Iy6RaasyhYTQXs4KqPKRpk6iiXi0jbf64XBe+/6mv22l9yy2a67nqWwQ=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+202. 九万字 - 黄诗扶
+   歌曲ID: 1335942780
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729041316/12a54a66931167834cd72ae6890ad115/ymusic/015e/0f58/000f/64660e4659828c7ccb6e7ea58a646e7e.mp3?vuutv=tBHs06v8Jp0cU7/dpIapEI4tUBcTa25ubC3MlQ0QkHf2AdkblZsJbLDbTHCfmQCpwtv8ycz0b7gnsneh9iM+89tr1l3DtxpEYNWS7UJrINWoARLbcs2Nisae0ZYUeKrwq+PGR3sPhYD0rWN55UVJQ738C/QCITjiGsbZTtNDG8Q=
+   大小: 3714029 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+203. 冬眠 - 阿YueYue, 刘兆宇
+   歌曲ID: 2110700883
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041320/44f95194c30a07e399c911f1cb0686ea/jd-musicrep-ts/1a19/fc79/dbb8/619512d8390db1552a1cbb02b0d8e1da.mp3?vuutv=ChX0lzc9D2+zy/jXTQ5FlbOHxI1SbeB98evM3nkbVXTo/wtDOlrFu4c3I1G4qLxRDNSyQDU+U3pHIdxjYf9y4skcZ2PgUIrQTdaZR/KFZKyxQVcw9StbWus9TEVHvYKGnkynpv7EA1vxx1/5M6WDSIJjLPc0r3c4HQG6ZVomksA=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+204. 坠落 - 蔡健雅
+   歌曲ID: 27747329
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041322/f92417a9318afc220980175023e8cf9d/jd-musicrep-ts/b366/f390/5683/4447825084a4853638fbc98bbe78e5b6.?vuutv=64DfNlyXL6/SVAgUyZLYeZ19KHx82/3fma3E8fIl4s051GF3wbS+94XRbfbUTIN3PWoKqY7PL4JbgNXT0YrirfJW1NHKvcTCTpOLfYz5muHDYFwKAy83/qbJqGomLhZV+oTxhFdRP0A/8dPJZ8cPzrAJZgWmOvuivBBwXjEWYiY=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+205. 你 - 郑润泽
+   歌曲ID: 1406083061
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729041324/f9ad439048654a8f6afe309335d8306a/ymusic/555b/0008/0f08/b1621de5ce7b69b62ef88bc56d6c5c7d.mp3?vuutv=Hr/RF1deVG00+uB98BnyTjjOQNGbHm78G+aobvdQ06HN59lNIDIcFrXzM77PSVUG6+WywErI9I3OiuIvaL5whIdh69VffFik4EjATnXQpJ+vUJfp8H4ZpvvivCISkEKKfhLDj/24P8iO2LXQxApECcnaWk4G8bktKen4x/q0tyk=
+   大小: 4077653 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+206. 唯一 - G.E.M.邓紫棋
+   歌曲ID: 2083785152
+   音质: standard (128008kbps)
+   直链: http://m802.music.126.net/20250729041327/fbe4362833fc14fd07272b3a31e33781/jd-musicrep-ts/c313/f818/d691/ebbb696ac3a70704cd8cab4489fa0acd.mp3?vuutv=Bdv41l2gLk1Q8ZycCIRSu0EAoAC+04NtcXxTArVxQo0NWSq+/v5EufO2+2g1vO2c5F7CtcRIgoKqbp+6dDy4Lunlqm/lq0VHnvBAl7Zx32unGT+X6Xv18+eSQpkjgm4h3K8MICYPvn6ypXsyLowFub5oCpQ+Lzb40yw7/Yjh5JY=
+   大小: 720813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+207. 难生恨 - 藤柒吖
+   歌曲ID: 1921341405
+   音质: standard (128000kbps)
+   直链: http://m7.music.126.net/20250729041329/bc1bd2fdcad5f3dbc8ed62c8cbddf4c3/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/13293276592/3bfc/7752/5588/48513283e9744998720aceda6c646489.mp3?vuutv=6SqAoZUgBwc1OtOg1TpjX9FUknz2e6+kdnLStWp1BPfTnSd2fNS9wrqGJpgxwBUC5gXJ2lFQkZg79+etWDYo/eXwY+CVy5v9/54t5URThIAkLOJMtD/MvImdLvI/6+w5OkI/kvnTy4Dqs/tLeXlAcxwXj6vVYkBTgbZCBnaCFi4=
+   大小: 3574701 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+208. 长岛加冰 - 21.
+   歌曲ID: 1486484277
+   音质: standard (128000kbps)
+   直链: http://m8.music.126.net/20250729041332/4f419b91b5ef8f74898cbc77d7dead0f/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14052504680/dff7/a20e/2aab/4f90db439757a667e7ee169edafd04e2.mp3?vuutv=JM9idVUwHf4xPdXHsGTFA1y8/uEUSSZULrOGbRgnc+motREzufm6hoTJ/84txlkPxJrG44fApuVRRS0UWRKHaqfp+I+octmVNXn+rf2QLFmU1P5ZDtM9kkIiMNoS02Sj5Yds1DlccUS5XvJ8p6T0v37EsbF0nC6C00jeTyMPz04=
+   大小: 3123501 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+209. 零距离的思念 - TINY7
+   歌曲ID: 2673175226
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041335/9c123e330be553d1c22ba00e33aca91d/jd-musicrep-ts/5cce/85a6/f348/391a5c7632ad1b64674cd106b164737f.mp3?vuutv=xo54Beo/YBSMBpm7WhGB2L0+oGlJDUke0o5BuWrhM7SaEQhKwdZHUebOZNcsI9Ad6bFQo2jXrCWiqISjEdVsjZPlh4I3rKEFP71NjtaZFuBNxk8Bdt0iEqxtnCdcOACOGBOANAHU++oiXvEW9Uwp1CEIe8hNhi8SC7l9fp2m1sk=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+210. 爱情讯息 - 郭静
+   歌曲ID: 233888
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729041339/1345cb14f1dcee49c3cbdf07133f31a6/jd-musicrep-ts/30ce/a945/a340/6a98ce4819764a3b4c09a97d2888fc82.mp3?vuutv=W4zMiVg+7sx/KqIjtF/ZtZ6ShOz2tx/ZAjOkkMTsgycJaS4T5S0C4ogl7yiWav8DWMw9bZMmP5wCpzjG/UvvWIL1APocEFEe3hQFKi0EJsn7t+qnL1XZU7DYbZ7lRSXQE2uQjmjJc9u7Nzo/vrAE8ujux29tyNUqvYkNWQatnec=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+211. 两 难 - 加木
+   歌曲ID: 2163210456
+   音质: standard (128002kbps)
+   直链: http://m701.music.126.net/20250729041342/c3848cc663492965da1b3aa8c9bca77d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36433247255/635b/cba7/22ef/06f69f218d877d6c65b5c5483a433d7d.mp3?vuutv=AGF4fCaoDNpBlnirQ41DDHlaW4F8FQAc6gm47PQu1QMxCBYDvxgUYJS4PNlAMUnZTkoGECuBTH8L1qgm3GnKAjBcycvMj4lGVxHrA+bJGP01owzAWkocPZWpCa8YQUAO2Qfgd/HflkiIZPunjQoyM7STCl/G5N9VvPv/6eesk+k=
+   大小: 2721069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+212. 小船 - 163braces
+   歌曲ID: 2055507089
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041345/da714ff3bfdd2efcd0c9db4ddd29537a/jd-musicrep-ts/c79a/fc10/f678/bae6c447d884cf2e704ba57f470b998c.mp3?vuutv=sUMYp1fFsSwgDks11r+7/VzhaN70dXyDIRPeYu8WoVrnMorOeZc+2zR4M0hqDgCgnOkzEDlEuK1VHnESxNBMp872/+25XuFCPbff7WEZta5NHvD34BmSnfA52gqe0WQJhzOplXlisIi0SdJNGJ4zNSLWLmB4mKy+LTDIHVZKb78=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+213. 彩色复活券 - 黄龄
+   歌曲ID: 2641552552
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041347/57949464705b6db28e5f47ec0627f5d3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56113819546/6150/a9c3/8b2f/f504da5691202de9bab9013f1f4f700f.mp3?vuutv=ybNOEjcwhmXUo37PzwX+1B6s7aoyLcnaLiiaVtm2ouUhK1TPB3G3r5hSYunll0RmJoB7B8KtS1HQmGPyV6cCZfKEt3fhe+4LXrXPlYBoGRD0zx/wjsmmY7AHSFlUi3OmxDUw3JSslBdxZtDqkZ1CG85p39KDwZMX5cmyRZnywW0=
+   大小: 3022125 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+214. 只为你着迷（完整女版） - 小匆匆
+   歌曲ID: 2666314815
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041350/6370fdba52b135dda2d2d5c7eccfdda2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57668702929/3f72/31fb/c62d/79cd1105d7c4b14e29b0dcf33a7835bd.mp3?vuutv=BQTVEqD0maDLD2YJ3StIx4gHcFJYSVJheURefX0H2ER3ZLLxvrjUKbqBhDBxelb/ohnHpUkkbzGwBBFIht7jZEw5l+5LKaesVrKStEn3h8Oa8uYKOyKlazYwgFB/xCHNIdipu/2mFxRvvtgw+dQuK99QKZkV3lmZyhVrMu8TnW0=
+   大小: 3835237 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+215. 和宇宙的温柔关联 - 房东的猫
+   歌曲ID: 1959667347
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041352/7e3ab7e6413c9508e06fb38ca15e1639/jd-musicrep-ts/1fc7/4895/e55c/2b16e1403ed5528cfd417fb4a96a6de3.mp3?vuutv=A3xnwh/mmBs2A44qLZFnKlmPX6nMaxpacDCbrWmQeYfyOjIUoH+Y1LVvnp+yLrhx5DfTE5pGJezHcsmO4OU2PCkCF2ukYR+BfepEe4eRDyZzw1VbtZmZ8LJq1CybNpezLn8GR/U/h5/qt1NcX6rxyA2CKnGw1+8aGeMpgX+voOU=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+216. 上仙山 - 浅影阿
+   歌曲ID: 2660010022
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041354/9d0dc0c08d8507c1cf4d80f142516ad1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57279461307/c52f/e196/60ea/3adf1fb278bb18972d6726c096ac37d8.mp3?vuutv=ixdL34eYj+yV2VPL5mEnnpt4O71Rxp2rBt+ffyZGwTMdtQXYqxZm6opBV4f5wALGl9iN7DeIJjb1rU1dCGbWU+FwIe8SvbNceVc83OnvNj0K3S8dBCLYzTY86JaZGJZN5kU2L6loFSrkTpJr/0WKbJYZx80OiapwZ9MACFIcSO4=
+   大小: 2586285 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+217. 说爱你 - 蔡依林
+   歌曲ID: 210042
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041357/1ecf9208aa892cb0960f786892898763/jd-musicrep-ts/d793/2c03/b1f8/eaefef6c409cb2b1e50774d74df4ff5a.?vuutv=l/yF1fDEmQZYOf47BvAj/HddH5zW3XfNP+O1JL0flWhgKz1Dr6j0WpXx6TMZLtTV5A1NqgcP+gHCG9SkNt+ELIP8fgV/+ZL6fXf0kNFoGyAo+MmdqsIL7hpXWORTki370+rsXsfj/ipafbEnf8Z7ADbkG+nwW6NdQ98GkdF9Mew=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+218. 1022 - Aggylow
+   歌曲ID: 1862467472
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041401/62da17ff9d9570608a4d079786e36009/jd-musicrep-ts/e77d/eec3/8cae/c3f643bf8f03a84ba17c71bbf097d20f.mp3?vuutv=Nvr1pcKqkBFJo7yDlcqAyxyj9XrlLuLz1/2kx+dW3LQttDoMsUnvFG8znSp+x5nHXRTwidZ/tR6Kf39q96LyC5/0lvDdyCg7eYVU6BuY7b0LsOkH889C0Kh1cXEDPJ+Up38wlPQtRLXTWYWUsEGvzopsbSDa2nP0vVVvp9mfiT8=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+219. 拼图爱 - 蒋孜怡, 岳燃
+   歌曲ID: 2655850235
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041404/5a5c117151f2ec4d67c08b2305139339/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57039922236/80dd/cc82/fd98/46ec91c09307e7bc9fabe26169d15dac.mp3?vuutv=6ek0DyxNSjz7fLicIDvws0BZUcNfCdWA3uMRHRC1HapXuBDc5uuv3mVJIrXLPGcag5vdkqf868E1ys+eb4JTEUlB8QaI8WbfR1lctrwWzFQh3TlfaqfjzC27lSzbS1kEbx71V1dz+tBFvmdcc4emgmdrEMqjW86gloKy5aUBH7s=
+   大小: 2421549 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+220. 我爱你但是我要回家 - ET, Happer, 无面小生, 口古口古
+   歌曲ID: 2647831829
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041406/eb789fc1bd76217379b0ef97795cea41/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56572092815/7b54/8882/2074/6ed7c0a290c01ff0edd4c2412ec8a9d5.mp3?vuutv=VEyFO5hKPseB6Sm4863X0fI/uWqFZxwNMSF5d9V7ljJ7y+YoBUd+Yjmrr/JTZJysZln0kHZZvTo0FjBbXCFcnrcsvncSznbGGYfJrpoBgWhuuUQ/CVrL52MWjfius/xQKBTMv2RDQS2yrhBJg1CSfppsyfKMLJ1NltuLi4uVsXM=
+   大小: 3108525 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+221. 爱错 - en（王翊恩）
+   歌曲ID: 2629921305
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041409/6f8c1c750582b675c2a4c21f395b224a/jd-musicrep-ts/d1d6/e97d/fe9f/c5d069b7d22e1cfb300f01309c7a5aaa.mp3?vuutv=ckbtjydpVGoE1wrTBgyzfWnHp6zR2ulCZCGsfIh4asQFskzA3xwUybgBRu8fmg1cQiUsFPuYiJsQ/0o5tCntnOIb7elsUoHKdvdyCR2tHTKA2RzymAX/EcdEaQdkkpVMsmAGblI5xlOwa6Eo+pIVnpxueCi+vytk9MjFCdFG7mU=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+222. 我看过 - WiFi歪歪
+   歌曲ID: 2089636257
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041412/a00718ebe8db38570879bdc95c023b84/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30793980845/4420/a534/ec26/c49ca8d3aa38100979a7e51a0ef3de44.mp3?vuutv=UqLCkT9LnFaR+5gPer6gIu5DlIz4PnkP5njkRpantjVOzRWl7iuNvfRtaHljYmk9x8M2g9dOd6SRH1qxTbpeGadTADzQLuJ4a6Do2kpgGKom2CoZnEVjIff26PHfzJlEjtGdfOPGcq7UqMsWhPSdD7DjkvUvVr/Na9e6oZwUz+4=
+   大小: 2408493 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+223. 黑夜里的阳光 - 杜宣达, 费米Frieme
+   歌曲ID: 2074448544
+   音质: standard (128002kbps)
+   直链: http://m801.music.126.net/20250729041415/0846f926593428ca814a55ae51947b32/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29973960894/b369/2147/9e68/8334158b178ffc79dc9d0a75af6b4a8d.mp3?vuutv=+8NW0O5y0MQvlo3Jy54wIwlLebzBqcFxzCREVGxB7Kskel4pVzOTf417cAZkK+7o+R33CHFHkOVri0fqW/8T/Tvdje0es8vdB7D4hIHAeFi/tKQkswNYBIc5CP85wKGrB3NtY4iEPf6+9coq9RhrgVOKoqxWHOvCqDa3+VrTeAo=
+   大小: 2658477 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+224. 不喜欢下雨天 - PIggy
+   歌曲ID: 1371046568
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041417/2ca8c9134b56a2c3f2c409bdf90069aa/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096505570/3604/bd5b/1ca0/33722db18994093e897eb189eba2d2e6.mp3?vuutv=yz42GL9SBQwEeB8oeTisrJfIsXmAeB1Ezrt0s0M1DWjZFLlVekMmhYvWg90GA9dG9SqUeYulA8EEuxTfZ4W05akE9MpD3jXt1iOEJxW2NZ2Cs7Gn3Bat+mp4LB27ov+MKxRVTi9KQx0dH7SeMPTnQEU8ZAgKSzyasKoN/KzWeDk=
+   大小: 2750637 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+225. 洛希没有极限 - XMASwu(吴骜)
+   歌曲ID: 2614799449
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041420/951ccd6876010cd581ed2785446f6bc6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45067125304/41bf/add7/74f8/610f206cbe585fb0d4508bdae597a4a2.mp3?vuutv=7UyOgU1lXmhnR2IMMn/Q3ZRCA0ZC7TUHef6PaqTbrao86OWQ18vY4dHkLSgq9bvVxtNMaKJ4/EEYa6+eMYfsr/TPNxKWsHcrU9FlfVWxgNw5WSdUw7xcIf+gPAayXV5PBaET//Nl9x34V+OR4eVCAQcflAKD4pSeNjCgcZ9VcjI=
+   大小: 2839341 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+226. 是想你的声音啊2024 - 制造热搜, 果妹, 傲七爷（江偌绮）, Aioz
+   歌曲ID: 2163953992
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041422/be372e317c822fc020c5ce064ee0bd93/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/43939672745/ef7f/7817/5493/460dd4a1aab1ae8188b17695f4bec954.mp3?vuutv=B0amujDjjzGQ0SYY7RXK5OMJMFV/XuSlukOwT6SQOiMoWd3rtaZt76zXD6T2u5d8QyLrn1JNZU7BDqkZ/oMCTKlt3lpt03gjQx1C3jdgh4BXuu/vKe4xnddrN8DyAAto5aycMUceqzPY2N+IbsDcSlELfvKZHVyQlSUmFRM0ixk=
+   大小: 3061177 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+227. 暮色回响 吉星出租 - ORCA特米
+   歌曲ID: 2616910865
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041425/5893eeb1589748e1402cc485a8b4a265/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55756928542/5aa7/233f/68ea/eb2b5c84ef53ba2336f2e704db865f84.mp3?vuutv=3YaV2tgJ56P92WiN6rQT7l9UpX+fbr1++QAl9x2DFPVQbgJQymdXWW/5jIP0FvJxpFhVL8acHwOe4o4Y83W3u26CDYQREz2Ia4IMmoBA4Rt6TDw/QFGhVLtUNNMV0KQrQs/khft0Ivd/C5fgcjk5YoDBR364VQ8RTbuou/EZpaQ=
+   大小: 2854317 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+228. 我只能离开 - 颜人中
+   歌曲ID: 1398283847
+   音质: standard (128002kbps)
+   直链: http://m8.music.126.net/20250729041428/ee45961a7a542d40fcac8f5108e54a15/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054117261/e592/91f2/68bd/65cf08a2cc55ff042be2f2c5952c4969.mp3?vuutv=6orRdllohE/HYitYS/ixNM2YJnpCvV7JlcxnQbzn0H01UK7wZqphzKL6oCFd3DuFC12PFR6OYwE3gJQXBM/TZMPcYlhN/BXNca2WTGlKJfnhomcsBAIMvHL5GjwHymN0JEXClRxJkc22IR/fByg2Tgwa0yaHsHZ77fR0nTCCK3E=
+   大小: 3681069 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+229. 不说 (女声版) - 落小安
+   歌曲ID: 2062926519
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041430/902678deeaffcbc5f37733f96abd7251/jd-musicrep-ts/786e/da9c/8598/9bc7641c4bbdf736f4d7931ec20398f2.mp3?vuutv=5d64KcC3x9tW0WZX8bG0Eu/1jtBPSkJdFlwuZrRMLIn4CGb4GWC8Cu8KTMA0lu7MSO0LNftKh/QjG40QhPIxIvNOQCueK+drFcoUV3Go0qj0VXNLtIPZ8Wt7EiWJ0K+D+QvcyEJczW1G+R9aqMt0ZGHOB7Ap02F186q9CvB4qIs=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+230. 危险派对 - 王以太, 刘至佳
+   歌曲ID: 1877996649
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041432/f630da66187ae12e62ea9f6420d15365/jd-musicrep-ts/8fb6/cf57/0f93/575bca2ef812892fe68581232e662b7a.mp3?vuutv=7Lc8mBFUONB+K0Q2SdFx9rEb9SPGeKfu90MiOQVaMcUH705F7YTq5SzXgpae7mK+qVpp+5lEIBMPngn9es3+zG1H6kMwdN4GoCYaIfWLzZsn6BqZ8+QL5avmFPJhUO6H1c90Yzzot5LgXl1gb9sJWKwqZKekdjSofE/6Q6KGqu4=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+231. 爱，存在 - 卢卢快闭嘴
+   歌曲ID: 1460682363
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041435/5be8cb9b39a7858dcf3d8352f3d96495/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096527381/6b6c/47a1/e18d/c4d8f058d256ba13ea14a2ff2bc63d99.mp3?vuutv=1x+QL3K9Z35AAWT0vOuLmlNIHnWfkaczEIId8BDtfOpTFyz157qXiCg/kBtbglSPQcZtjr2op8k1u0FyWBMcbW4ScQyzzH7gPttRYsSZMphMTfH9QxckoEfy4t5YyQ5+etjARcGwEaaW1mt71RadVMgTIPDpvx3Sym0XGlpxpvg=
+   大小: 4526124 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+232. Moshi Moshi (feat. 百足) - Nozomi Kitay, GAL D
+   歌曲ID: 2119517202
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041437/deeaa7051899b384b62ba024ad6086fc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32961667863/2d37/faa1/cca0/727c9f5398df2f24a2a4afaec8745bab.mp3?vuutv=2inhfnzpHTPQqRCk2qSr5YpEAuShCMRVgMweR1hQDhJyIinQFwpT1X4IG7garsYBTa3nKYDgUMiELHG9l1UVAgEJ36JdfAfSshLFaaojWf+VAaCJLQ6oWVyQBp7bUbfkmkeNpdDdDldfT0mXNm/GsqPUTMK8UZBWvf8orJVG4U0=
+   大小: 2832045 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+233. 房间-新版 - 刘瑞琦
+   歌曲ID: 562598081
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041441/5535020f0ab47ab3031e99347ccfe685/jd-musicrep-ts/000c/bb92/4b4b/a0d4447c41b23a187d687e6404ca8822.mp3?vuutv=r3rnabrU3O3GVodfE7IlQp8LakNrZb2QMRsOA8YsyoqMHBOh/DjQ3xaTYePxsEjMXUMCi5Hl1KEN6RfQzE5PU+WRiXtE8VENOC7Y8kjFuoure1iu5omqBaIuirRKm65TaZ85TmcjI646I7LcVEuG3fxZBrYEqm7v5ruNpFwmqgw=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+234. 山茶花读不懂白玫瑰 - 梨笑笑
+   歌曲ID: 2019620319
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041445/773b861b431ca788429196e1febf8bad/jd-musicrep-ts/2eec/0795/14e9/368c417aeb4616d7904071c96942f5d8.mp3?vuutv=ye7stRFE39G3bgFSs/Y8c92ebMFOcNDG7sZOlMWH6VHmVwtIJQkfA0tids2HnoPQqAlh0qWQZkNO1P/tz7Gn3HqvKHu0ETFoNQNxlIoPhzRtYShek04d0iv8uv3rDnkZM7ElwqjEZG+FAO3xzYkyMAn41iP+BzmP0STry7UmjNo=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+235. 天若有情（女声版） - 高杰杰杰杰
+   歌曲ID: 1931994283
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041447/62b9522c0dc7dc24d0d9cfcfa0dcb3b2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/13640048917/4d34/5968/6107/06161f319c349b8f409aef0477ff96c5.mp3?vuutv=ot/FeEXPq4RH+XyVLomoKLEmKJ6LtwNyUC/dYx/70W/0SKx3nEJbdzlqEXmlNyIaxU6DJy0A0haDp/TwhwEH/qLzF82Nv43lTI4SJ/tO0dspAo/UhWwv2+sY4VMz6kVD8+TPLjBl2EtZJ2KEDrsm6KuSBQrI8xEcL9wAYbJfV/E=
+   大小: 4138257 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+236. 是你 - 梦然
+   歌曲ID: 1966162185
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041450/9952db08d1515be2d82978cfdffb428f/jd-musicrep-ts/3e8a/7555/571b/568f087b545b820ed8b6d1f9dde93b7c.mp3?vuutv=S73nbI6vUiIEJmCwxtev50P515B2rhRu4FjoD0IOfjNHWlf8EAxFA6iQgZRGE5KpjLr1026f5iNqCE13FKFGvKh/vTda1DidzPPzsQNd7PnWnr/NPzNbq3o+l2QtOioYQoumA2xHrd/U84HEYgYsAGvf+7EYU7cW1KvVn3W2DsE=
+   大小: 481115 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+237. 天外来物 - 薛之谦
+   歌曲ID: 1463165983
+   音质: standard (128006kbps)
+   直链: http://m702.music.126.net/20250729041452/589a45c51a79c411d572a32f3aa9e6de/jd-musicrep-ts/52ba/aa97/6df8/be6b2bae57e646c0fcd21042b2298d3d.mp3?vuutv=b7L1Iq6WQhHoHjDVAnLWb6HbKR9NS+U+Tez/GVwjriNsc4nLUjYlnBDB9jN6lIsT71Mg6sP1kDT/q6JXeskjTb6HtKj7vjd1rUcG1MM/zQ5F1Zsh3GTk5C/f1Plx+GVWVUUsyTy9+JNVxye0rPdezk/RSlF27RlnqXuGwVmEtHs=
+   大小: 960932 bytes
+   类型: MP3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+238. 5:20AM - 刀酱
+   歌曲ID: 2124731026
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041456/a025d66e197e77f6736ab6d727c60939/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33489452813/8fea/3f51/7f2c/2182b6057e431155bcfaa8ecf0ae80e9.mp3?vuutv=QKTfaM3xlmPEZuRdMjpEpEKxCbRjO7MLrKzyakA85U69ebRJRTIwqkToXpGep0Os0oeHtY8RMG/+yNuPiTcgUX+iix17ZihaqWPIh0j3Rk3STv9Yq5zqjH4ReoMGj7/1om+TRuXCgWDJHBsF0CDfGJovSSc5vbdoiHHtwnQFogI=
+   大小: 2581293 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+239. MOM - 蜡笔小心
+   歌曲ID: 1387581250
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041459/013a1010338dc8ca23fffdb32063ed20/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096405766/3d29/e61c/1bac/0c0e25b74beaa9612a6343b2667b79c9.mp3?vuutv=/j6+mvKuKIAY7vdW9covANhvqEEq6ZntObYoCjZzyZrwpgaKSh8Ih/aMFf/LUfJOu+RCeWZy8JcTFAG2WoJlnVssF22ZFHxL9L/krUeZVXc69eecHfmUJ1fUPqpByC8WB8iA1EzMFsirHd15sa1H7e6nad8oIKcBTs+p86C6CN8=
+   大小: 2797862 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+240. 最好的我 - 刘大拿, 刘思达LOFTHESTAR
+   歌曲ID: 1975753397
+   音质: standard (128000kbps)
+   直链: http://m701.music.126.net/20250729041501/a61b9482637dd1e6d6737c07a16cfe80/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/17950226093/7d5b/b65a/7d90/50ee21fc740331c1e8c29d731a9701e2.mp3?vuutv=K2Ni/YXqYGKuf0nPjqIapSlF9FJHDBIz6Pfq1C3uUiGXWwMxPcKoIVGzZ4An0b4++IAfcGdGirHYtSlHz4Qdu/rI/e60e1H0Xrfvj8Flk4JCJK9k7aqLJN8GJxRovHivC2YYVP7Gf1S3ov3MjRHnSKbP2Q41lxvOnFBYUNe1j5k=
+   大小: 3811629 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+241. 你在 不在 - 郭采洁
+   歌曲ID: 233921
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729041504/d18b68903cb280ab94b949f48dcff96f/jd-musicrep-ts/0e45/fcca/19c9/369db97950aa190b6709ccd71e950385.mp3?vuutv=xUrDXcYI+DRAOqbqM5d5kfY7VdWbXCcAXK3urCJv6C3Mxyny6BZrxCbvdloZkCp4TqvQ7zp0n9uuI8rx7Sly2dkaVHMEam5/Ipqkv5D76CrtzFaP4rJWcXC+694lytKUD26Zmu7EyK3AHOxGiem29JMCICxLbn/gJjKoabDQ5Nw=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+242. 我们俩 - 郭顶
+   歌曲ID: 85571
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729041507/bdb921508d12cc9968a4c0e1ec287330/jd-musicrep-ts/dad5/1575/2eac/3989ca41790254984f49e64e7de17c56.mp3?vuutv=h2IQFOVEfuGGgt0oZ6H+qaHi9WDNAjkn+TVPw1SRM5Z8Y1pDMxWZl7jVldgscoZi06QsAIDdGhtirTkIv+bzGTXhJaQGBkfo2912piPsFTA8czASf3Tqc/bUY5i3by8dC7sAqD4sX2SX0Znf9ynRsqhAh05T31Y2WhoQcEkCN8U=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+243. Everywhere we go - Bell玲惠
+   歌曲ID: 2141631249
+   音质: standard (128003kbps)
+   直链: http://m801.music.126.net/20250729041510/78e441bc3d465798139f514ce22df9b5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34926338460/059b/4138/a012/2cdc43eb672b973447f72355311808bd.mp3?vuutv=Qku8qD9V9vMyBiOzcHcPPXRIp3w2v41umI6OHstC85aK8hBnIW9npQciIl3Bvf7OaeXTkCqUgC+SCsfbq5Nk5jJaZctpL60/DeR0fVs8PjPS0ZOCj9dN7TFyeIX4A+gxcjs0XN6bf6++CV3+yT5r6oCJRCnGiDLasCrIDUpGw2w=
+   大小: 2034861 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+244. 我看过 - 阿彻
+   歌曲ID: 2075085618
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041513/c90a67659370e9d06618c94ac05a236e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30008358729/dc01/5b11/d762/2ed23e0b2080fe6270d00c7bc6f10255.mp3?vuutv=YvW8iBRdAYJ4JCWOYcq4PXB2iz9NBL4mszdww5TB0fsO3IxFQeCrWP5uHrXqlqbqwSUVHoZU6YlvB2n6tbpnXsKPKNWEVPjXR9kUVXzGwUyE4+YdKU6+hlhVOOLKGSs2Dg8193q2oB1M3l2wjaG7zz1ZEPY7jo0vF+C1WhIEmKs=
+   大小: 2311358 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+245. 晚安 - 颜人中
+   歌曲ID: 1359356908
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041515/48279d76187df3830536eb286c4e76ac/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096446195/dec8/bf82/b45a/5c91b6bae9dd7d29dcc283633c2e76a4.mp3?vuutv=SwYsimYIqtviDYO3AvDObmHsYZPjyPTZ3q4c8kRrSOIu4Kgh3STSGjj1TOzD1fPqw4xQ3Yppk4vWF0W6VRx1SKou9tWPsio0CZpOtlI/uKfEVZPYV6GlCFE0N6qE3MJuMRRasHCWFExBuW7FZRnOwQTC3cxJifrtjUubm6pLUV8=
+   大小: 4628106 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+246. 若月亮没来 (若是月亮还没来) - 王宇宙Leto, 乔浚丞
+   歌曲ID: 2119795491
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041518/0cafd92dbc451bdc68f8ce6857e89c40/jd-musicrep-ts/be74/47a6/773f/92e01c57520e098ab411be2be16e217e.mp3?vuutv=ySipX51IO4CW88WaP9zS0J5IT8ZHDpNLL1px3slgEKbU63FnOtZW2EOlmRoH3YpQY6BNazwGHwVrebOqI+3vRVX3YzWcidyPh9rJsK8SW4C77bS7QRmY6xVpNx0kTYBXKgplv29TKTY1fUzkpSWLAuceQkEkP2ryfa5ZB+beFdU=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+247. 沉溺 (你让我的心不再结冰） - 邹沛沛, Pank
+   歌曲ID: 2034187125
+   音质: standard (128012kbps)
+   直链: http://m802.music.126.net/20250729041521/e9ae8eb9939f79bd8cfeacf1a5f53781/jd-musicrep-ts/9114/32d1/06c8/0235cf2de6a2221e44642510f0c8c9fe.mp3?vuutv=ppohlWGVW38LEZ00fia54IRNt4wbmJ5F14a8qsy9oe95QLmjQJAk+nhOyJsp6aBixgHMQjDsp0e+wfO5H9MdajSPdgkakwFDAt0L1Kk0up1aKXCAqKAGihriM0Phljeok/aKbxdBUL3cxsfcYRPa12qiXlbn+vpn/V+sssVXmHE=
+   大小: 480813 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+248. 未必 - 言瑾羽
+   歌曲ID: 2115519354
+   音质: standard (128012kbps)
+   直链: http://m702.music.126.net/20250729041524/a3759b54bc119f0bcaa85b9eb3d12e3c/jd-musicrep-ts/5652/b418/91b4/74fca2ac31759cc3f6e685a92d707893.mp3?vuutv=U3njx7Drwv9oDqPATs+8bAsHKdZqsDeGCojoJ9kATJOD5iNjD/45UFfGBaCCH6h+9xM8B+9FvG/9TaPqok4Ig9MjlUii27Rvqe1ZHEOljXrwQ0u+S5M1yesvqk5g6MukxbbW/DgE9ol4yMhPyFkEhkAqUrgHR/TVkYpZpONRdsw=
+   大小: 481115 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+249. 身骑白马 - 徐佳莹
+   歌曲ID: 306664
+   音质: standard (128008kbps)
+   直链: http://m702.music.126.net/20250729041527/138c31d9fbd99951e70d13fe670ed8a5/jd-musicrep-ts/e054/dea1/4469/2970b5a1a150b19242224fa0b0fe99f9.mp3?vuutv=gGIxvy/0n8sTDKYeXU1o6tuHlQUTEmEqx+kVXJf6IRt7m+yWQ5ElNILAxQ1cUNxiNCVmy4JyGWbtqNxkDGbCu8S25tXC7JOK30Ua52D3l9oA/6L479664d+B/sk+mgjFVi0w6S/e9JieOyYoSjekwm1q10L1D4zvrg9mDbwrYdQ=
+   大小: 721023 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+250. 慢冷 - WiFi歪歪, Mikey-18
+   歌曲ID: 2110966810
+   音质: standard (128000kbps)
+   直链: http://m801.music.126.net/20250729041531/ded604fbe745d0e1a771f9d2d95aecc8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32307624467/3947/2c0c/1065/0ffbc2154180d7ca09b4f001f5052ee1.mp3?vuutv=vrKeHT1Vk38ocixgP0VdY1XHv/WaKH2VvReYWe67hrhlCdqo/8e9LdBpG0Vq0WznZt8twpjdbiCl5sxdefV7tiI9mC41nhA3gUquJkNUy8Dykzu6fjDhZt10Z5RNsz9UPExLtAfGgGOG2bjslpioF9dB9DEkqOu8vPWD7fFe3Wo=
+   大小: 2860077 bytes
+   类型: mp3
+   下载说明: 此直链需要添加Referer请求头才能正常访问
+   推荐下载工具: IDM、Aria2、curl等支持自定义请求头的工具
+   必要请求头: Referer: https://music.163.com/
+   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+
+==================================================
+# 统计信息
+# 成功获取直链的歌曲: 250 首
+# 完成时间: 2025-07-29 03:50:31
